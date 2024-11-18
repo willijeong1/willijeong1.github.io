@@ -2,24 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Seoul, South Korea. #<a href=''></a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: #> <p>555 your office number</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a second year medical student (MS2) in Seoul National University with a concurrent double major in Psychology, I aspire to become a warm-hearted neuropsychiatrist as well as develop a research career in biological psychiatry.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My long-term research goal is to further refine our conceptualization of mental illness by bridging the gap between pathophysiology and symptom-based nosology of psychiatric disorders. As a means to this objective, I wish to intertwine pioneering discoveries in the emerging field of neuroimmunology with a profound understanding of the human mind achievable through clinical expertise.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I believe brain immunity can effectively explain certain features (or subtypes) of mood disorders and, possibly, analogous characteristics in other diagnostic entities. Deciphering comparable biological mechanisms that span superficially heterogeneous conditions could facilitate the transition of exciting advances in modern neuroscience into novel therapeutic strategies. This would hopefully constitue more precise treatment options and individualized regimens to assist each and every patient to the fullest.
+
+With a background in molecular biology and psychology, my current academic interests are:
+1) The induction and progression of neuroinflammation, and the role of neuron-glia interactions in such immunopathology.
+2) Anatomical and/or physiological differences that make certain brain regions more susceptible to particular abnormalities in brain immunity.
+3) Developmental consequences of early-life stress as well as various environmental factors, especially in terms of the body-brain axis.
+You can find out more about my research journey in the [publications](/publications/) and [blog](/blog/) pages.
+
+Apart from academics, I have always had a big passion for music and the performing arts. Orchestral concerts and musical theatre are my favorites, and I recently started venturing into new genres such as a capella and opera. Feel free to look around and contact me if you have any questions!
