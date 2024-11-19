@@ -1,16 +1,13 @@
 ---
 layout: page
-title: submenus
+title: other
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
+  - title: hobbies
     permalink: /publications/
   - title: divider
-  - title: projects
+  - title: miscellaneous
     permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
 ---
