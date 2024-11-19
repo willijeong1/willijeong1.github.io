@@ -27,7 +27,9 @@ Adolescent suicide has long become a serious societal problem in South Korea. Th
     Adolescent suicide has long become a serious societal problem in South Korea.
 </div>
 
-Various attempts have gone underway to lower this devastating adolescent suicidal rate that does not even seem to budge. One example was 
+Various attempts have gone underway to lower this devastating adolescent suicidal rate that does not even seem to budge. For instance, signposts with supportive messages were attached to particular "suicide bridges" on the Han River*.
+
+*Note: The Han River flows through the center of the Seoul metropolitan area with over 25 bridges across the half-mile-wide waters. Although the riverbed is well-known for its refreshing scenery and is a perfect picnic spot for many Seoulites, a few bridges across the river are unfortunately recognized as popular "suicide locations" to some.
 
 감소할 기미를 보이지 않는 청소년 자살사망률을 줄이기 위해 그간 여러 방면의 해결책이 제시되고 실행된 바 있다. 대표적으로 서울에서 ‘자살 명소’로 유명한 한강 다리에 힘이 되는 문구를 붙이거나, 전문 상담사와 통화할 수 있는 시설을 마련한 정책이 있다. 또 정신건강 전문가의 주도로 개발된 ‘보고 듣고 말하기’, ‘생명사랑지킴이 게이트키퍼 교육’ 같은 자살 예방 프로그램은 청소년 또래 집단을 대상으로 주변에 자살 위험이 있는 사람에게 적절한 도움을 줄 수 있도록 교육하고 있기도 하다. 그러나 이런 방안들이 각기 유효하더라도, 그 효과가 청소년 자살사망률의 가파른 증가세를 이겨내기는 쉽지 않아 보인다. 현재의 자살사망률 경향을 반전하고자 한다면, 예방 정책의 보호망을 빠져나가는 청소년의 특성을 고려하여 더 직접적이고 밀접한 개입 방안을 고안할 필요가 있다.
 
