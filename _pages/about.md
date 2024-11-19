@@ -31,4 +31,4 @@ You can find out more about my research journey in the [publications](/publicati
 
 Apart from academics, I have always had a big passion for music and the performing arts. Orchestral concerts and musical theatre are my favorites, and I recently started venturing into new genres such as a capella and opera. You can see some of my performances (and other miscellaneous stuff) in the submenus section.
 
-Feel free to look around! Should you have any questions or just want to connect, you can contact me through the below channels.
+Feel free to look around (unfortunately, some maintenance undergoing for now)! If you have any questions or just want to connect, you can contact me through the below channels.
