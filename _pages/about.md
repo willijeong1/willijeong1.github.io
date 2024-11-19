@@ -27,7 +27,7 @@ With a background in molecular biology and psychology, my current academic inter
 <p>1) The induction and progression of neuroinflammation, and the role of neuron-glia interactions in such immunopathology.</p>
 <p>2) Anatomical and/or physiological differences that make certain brain regions more susceptible to particular abnormalities in brain immunity.</p>
 <p>3) Developmental consequences of early-life stress, especially in terms of the body-brain axis, and the protective mechanisms that let us overcome these adversities.</p>
-You can find out more about my research journey in the [publications](/publications/) and [blog](/blog/) sections.
+You can find out more about my research journey in the publications and blog sections.
 
 Apart from academics, I have always had a big passion for music and the performing arts. Orchestral concerts and musical theatre are my favorites, and I recently started venturing into new genres such as a capella and opera. You can see some of my performances (and other miscellaneous stuff) in the submenus section.
 
