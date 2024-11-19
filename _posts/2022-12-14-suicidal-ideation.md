@@ -10,7 +10,7 @@ thumbnail:
 
 *** This project was for a term paper in the "Data Science in Human Neuroimaging" course, led by Dr. Jiook Cha in the Department of Psychology at Seoul National University College of Social Sciences.
 
-Adolescent suicide has long become a serious societal problem in South Korea. The country is now routinely scoring a disgraceful "first place" in age-adjusted suicide rates in OECD member countries. Suicide takes up the highest proportion in causes of South Korean adolescent death, and this number keeps increasing, leading to a paradoxical rise in suicide despite the decrease in total mortality. In 2021, an average 36.6 people per day committed suicide; that is one person per every 39 minutes. It is downright shocking that, if we live in a hypothetical apartment complex housing about 4,000 residents, this rate would be akin to one neighbor, friend, or family member per year. Moreover, as if this is not devastating enough, the recent lack of social relationship due to COVID-19 has only aggravated the adolescent suicidal rate.
+Adolescent suicide has long become a serious societal problem in South Korea. The country is now routinely scoring a disgraceful "first place" in age-adjusted suicide rates in OECD member countries. Suicide takes up the highest proportion in causes of South Korean adolescent death, and this number keeps increasing, leading to a paradoxical rise in suicide despite the decrease in total mortality. In 2021, an average 36.6 people per day committed suicide; that is one person per every 39 minutes. It is downright shocking that, if one lived in a hypothetical apartment complex housing about 4,000 residents, this number would be akin to one neighbor, friend, or family member per year. Moreover, as if this is not devastating enough, the recent lack of social relationship due to COVID-19 has only aggravated suicide rates.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,11 +27,9 @@ Adolescent suicide has long become a serious societal problem in South Korea. Th
     Adolescent suicide has long become a serious societal problem in South Korea.
 </div>
 
-Various attempts have gone underway to lower this devastating adolescent suicidal rate that does not even seem to budge. For instance, signposts with supportive messages were attached to particular "suicide bridges" on the Han River*.
+Various attempts have gone underway in South Korea to lower this devastating suicidal rate, which does not even seem to budge. For instance, in the capital Seoul, signposts with supportive messages were attached to particular "suicide bridges" on the Han River*, and phone booths were installed to connect attempters with suicide helpline service. Another preventive strategy came in the form of educational programs such as the "Watch-Listen-Talk Strategy" and the "Lifesaving Gatekeeper Program," where teenagers and young adults are regularly coached to sense and provide assistance to high-risk peers around them. While these efforts are agreed upon to have valid social impacts in themselves, they are not sufficient in reversing the steep incline of adolescent suicide that continues on. To overthrow this tendency, it is necessary to devise a more direct and precise intervention strategy, considering the characteristics of adolescents that "fall through the security net."
 
-*Note: The Han River flows through the center of the Seoul metropolitan area with over 25 bridges across the half-mile-wide waters. Although the riverbed is well-known for its refreshing scenery and is a perfect picnic spot for many Seoulites, a few bridges across the river are unfortunately recognized as popular "suicide locations" to some.
-
-감소할 기미를 보이지 않는 청소년 자살사망률을 줄이기 위해 그간 여러 방면의 해결책이 제시되고 실행된 바 있다. 대표적으로 서울에서 ‘자살 명소’로 유명한 한강 다리에 힘이 되는 문구를 붙이거나, 전문 상담사와 통화할 수 있는 시설을 마련한 정책이 있다. 또 정신건강 전문가의 주도로 개발된 ‘보고 듣고 말하기’, ‘생명사랑지킴이 게이트키퍼 교육’ 같은 자살 예방 프로그램은 청소년 또래 집단을 대상으로 주변에 자살 위험이 있는 사람에게 적절한 도움을 줄 수 있도록 교육하고 있기도 하다. 그러나 이런 방안들이 각기 유효하더라도, 그 효과가 청소년 자살사망률의 가파른 증가세를 이겨내기는 쉽지 않아 보인다. 현재의 자살사망률 경향을 반전하고자 한다면, 예방 정책의 보호망을 빠져나가는 청소년의 특성을 고려하여 더 직접적이고 밀접한 개입 방안을 고안할 필요가 있다.
+*Note: The Han River flows through the center of the Seoul metropolitan area with over 25 bridges across the half-mile-wide waters. Although the riverbank is well-known for its refreshing scenery and is a perfect picnic spot for many Seoulites, a few bridges across the river are unfortunately recognized as popular "suicide locations" to some.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -48,12 +46,12 @@ Various attempts have gone underway to lower this devastating adolescent suicida
     </div>
 </div>
 <div class="caption">
-    아동청소년 자살사망률을 줄이기 위한 대표적인 기존 해결책.
+    Examples of current attempts to lower child and adolescent suicidal rates in South Korea.
 </div>
 
-자살 예방 정책이 현재 자살을 생각하는 청소년의 목숨을 실제로 지켜주기 어려운 까닭 중 유독 눈에 띄는 것은 아픔을 대하는 우리나라의 사회 문화에 있다. 한국인은 자신의 치부를 드러내는 것을 터부시하고 완곡하게 말하는 습관이 있는데, 이는 많은 질환의 조기 개입에 방해 요소가 되기도 한다. 특히 비가시적인 고통이 수반되는 불안 및 우울 문제가 각박한 사회 환경 속에 증가하고 있음에도, 우리 사회는 안타깝게도 이를 나약함이나 의지 부족으로 낙인화하고 금기시하는 경향이 있다. 이런 정신건강 문제를 겪는 사람이 조금이라도 병식을 가지고 전문가를 찾아가기까지 시간이 오래 소요되어, 조기 개입이 어렵다는 것이다.
+A notable reason behind the insufficiency of suicide prevention policies in saving lives comes from South Korea's cultural norms regarding the perception of illness. Koreans habitually tend to hide their weaknesses and digress from their true feelings when they speak, which impedes opportunities for early intervention against many health problems. Espceially in terms of mood disorders - anxiety and depression problems are widespread amid the socioeconomic struggles the country faces - that seldom manifest explicitly, the Korean society often stigmatizes mental health problems and rather attributes them to incompetency or lack of integrity. Since mental illness is strictly considered as taboo in both personal and societal aspects, many patients acknowledge their condition too late and arrive at the clinic in much advanced crises, let alone benefit from early detection.
 
-임상적으로 유의미한 예방 정책이 시행되고 있음에도 청소년 자살사망률이 증가하는 현상은, 어쩌면 자살사고를 숨겨 적당한 시기에 개입을 받지 못하는 청소년이 예상보다 많음을 방증하는 것일지도 모른다. 우리나라 사회 속에서 또래 집단 전체를 대상으로 한 예방 교육은 위험군 청소년이 오히려 자살사고를 부끄러운 것으로 생각하고, 또래처럼 ‘평범’하게 보이고자 자신을 더욱 압박하도록 만들었을 수 있다. 또 예방 교육이 효과가 있다고 하더라도, 청소년이 많은 시간을 보내는 가정에서 자살사고를 금기시하여 자신의 문제를 솔직히 털어놓기 꺼려졌을 수 있다. 실제로 사망 이전 경고신호를 보내는 자살사망자가 많았음에도 불구하고, 그를 가장 가깝게 보아 왔던 유가족은 그 경고신호를 감지하지 못하는 경우가 상당히 많았다.
+The steep incline of adolescent suicide in spite of clinically significant preventive measures seems to indicate that an unexpectedly high number of teens and young adults cover up their ideations of suicide and evade timely intervention. Considering the aforementioned cultural indifference to mental illness, preventive educational programs addressing the whole peer group might have proven otherwise for high-risk individuals in South Korea. To elaborate, if these teens and young adults thinking of suicide were led to think that it is "embarrassing" to admit their suffering, these anti-suicide sessions would only have heightened their self pressure in the effort to "fit in" with the others. Furthermore, even if the preventive programs were effective, it is questionnable whether high-risk adolescents had an understanding household environment where they would have had a chance to speak up about their problems. Concerning results from a nationwide survey indeed demonstrated that family members, with whom many teens spent most of their time with before ending their own lives, failed to recognize the warning signals these helpless youth repeatedly sent out.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -64,8 +62,10 @@ Various attempts have gone underway to lower this devastating adolescent suicida
     </div>
 </div>
 <div class="caption">
-    자살사고를 '만들어진 평범함' 뒤로 숨겨 적당한 시기에 개입을 받지 못하는 청소년이 많을 수 있다.
+    A number of teens and young adults may cover up suicidal ideations to "fit in," evading timely intervention.
 </div>
+
+An idealistic solution to the South Korean suicide crisis would be that social norms allow individuals to acknowledge and seek help for their mental health problems, naturally resulting in adolescents with suicidal ideation receiving assistance as they need.
 
 물론 아픔, 특히 정신건강 문제를 인지하고 도움을 받는 것에 대한 사회적 부담이 적어져 자살사고를 하는 청소년이 제때 도움을 받는 것이 가장 이상적인 해결책일 것이다. 그러나 사회 문화가 이처럼 바뀌기를 기다리기에는 눈앞의 자살사망률 증가세가 너무 심각하다고 생각된다. 앞서 언급한 사회 문화를 고려하면, 자살사고를 솔직히 털어놓기 꺼리는 청소년을 발견하여 조기에 맞춤형으로 개입하는 방안은 자살 예방 보호망의 범위를 넓힐 가능성이 있다고 판단된다. 그리고 이런 청소년이 사회 곳곳에 있을 여지가 많으므로, 발견 방식은 자살사고의 유무를 직접적으로 묻기보다는 여러 간접적인 위험 지표를 바탕으로 추정함이 바람직해 보인다. 따라서 대한민국 아동청소년 자살사망률 감소라는 목표는 자살 위험이 있는 아이들을 찾아내는 효과적인 선별 모형을 마련하는 것으로 갈음할 수 있을 것으로 보인다.
 
