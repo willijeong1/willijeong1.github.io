@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Medicine & Psychology @ Seoul National University | Talent Award of Korea | Biological Psychiatry #<a href=''></a>. 
 
@@ -21,7 +21,7 @@ As a medical student (MS2) in Seoul National University with a concurrent double
 
 My long-term research goal is to further refine our conceptualization of mental illness by bridging the gap between pathophysiology and symptom-based nosology of psychiatric disorders. As a means to this objective, I wish to intertwine pioneering discoveries in the emerging field of neuroimmunology with a profound understanding of the human mind achievable through clinical expertise.
 
-I believe brain immunity can effectively explain certain features (or subtypes) of mood disorders and, possibly, analogous characteristics in other diagnostic entities. Deciphering comparable biological mechanisms that span superficially heterogeneous conditions could facilitate the transition of exciting advances in modern neuroscience into novel therapeutic strategies. This would hopefully constitue more precise treatment options and individualized regimens to assist each and every patient to the fullest.
+I believe brain immunity can effectively explain certain features (or subtypes) of mood disorders and, possibly, analogous characteristics in other diagnostic entities. Deciphering comparable biological mechanisms that span superficially heterogeneous conditions could facilitate the transition of exciting advances in modern neuroscience into novel therapeutic strategies. This would hopefully constitute more precise treatment options and individualized regimens to assist each and every patient to the fullest.
 
 With a background in molecular biology and psychology, my current academic interests are:
 <p>1) The induction and progression of neuroinflammation, and the role of neuron-glia interactions in such immunopathology.</p>
