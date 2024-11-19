@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Seoul, South Korea. #<a href=''></a>. 
+subtitle: Medicine & Psychology @ Seoul National University | Talent Award of Korea | Biological Psychiatry #<a href=''></a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: #> <p>555 your office number</p>
 
@@ -29,6 +29,6 @@ With a background in molecular biology and psychology, my current academic inter
 <p>3) Developmental consequences of early-life stress, especially in terms of the body-brain axis, and the protective mechanisms that let us overcome these adversities.</p>
 You can find out more about my research journey in the [publications](/publications/) and [blog](/blog/) sections.
 
-Apart from academics, I have always had a big passion for music and the performing arts. Orchestral concerts and musical theatre are my favorites, and I recently started venturing into new genres such as a capella and opera. You can watch some of my performances (and other miscellaneous stuff) in the submenus section.
+Apart from academics, I have always had a big passion for music and the performing arts. Orchestral concerts and musical theatre are my favorites, and I recently started venturing into new genres such as a capella and opera. You can see some of my performances (and other miscellaneous stuff) in the submenus section.
 
 Feel free to look around! Should you have any questions or just want to connect, you can contact me through the below channels.
