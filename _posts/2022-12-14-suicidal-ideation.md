@@ -95,7 +95,7 @@ The steep incline of adolescent suicide in spite of clinically significant preve
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_09.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_09.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
@@ -161,12 +161,12 @@ Meanwhile, contrary to common belief, brain imaging data failed to show meaningf
     </div>
 </div>
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_14.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
