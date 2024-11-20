@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reaching out firsthand： precise prevention of adolescent suicide in South Korea
+title: Reaching out firsthand： Precise prevention of adolescent suicide in South Korea
 date: 2022-12-14 12:00:00
 description: A proposal to lower South Korean adolescent suicide rates by CBCL-brain/PRS interaction-based risk prediction and precise intervention
 tags: suicide machine-learning Korea data-science-in-human-neuroimaging
@@ -8,7 +8,7 @@ categories: psychology psychiatry
 thumbnail: 
 ---
 
-*** This project was for a term paper in the "Data Science in Human Neuroimaging" course in Fall 2022, led by Dr. Jiook Cha (Department of Psychology, Seoul National University College of Social Sciences). I worked with two other students majoring in Psychology to devise and analyze the prediction model.
+*** This project was for a term paper in the "Data Science in Human Neuroimaging" course in Fall 2022, led by Dr. Jiook Cha (Department of Psychology, Seoul National University). I worked with two other students majoring in Psychology to devise and analyze the prediction model.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,11 +27,7 @@ thumbnail:
 
 *** Revisiting this originally Korean post in 2024 to translate it for potential international visitors, I again feel heartbroken looking at the still rising adolescent suicide rates in my country. Even the mere thinking of the unfathomable struggles these young people would have went through before deciding to voluntarily end their own life makes me shudder. The most frightening and frustrating part about this is that I, currently living in a society that puts excessive burden on the people but remains to deem mental illness as strictly taboo, can too understand in part why these thousands of already lost souls might have thought of suicide as the last and only option left. Life should not be this way for young South Koreans, or any other person in Korea, or the world for that matter. We need to do something, anything. NOW.
 
-
-
 -----
-
-
 
 Adolescent suicide has long become a serious societal problem in South Korea. The country is now routinely scoring a disgraceful "first place" in age-adjusted suicide rates in OECD member countries. Suicide takes up the highest proportion in causes of South Korean adolescent death, and this number keeps increasing, leading to a paradoxical rise in suicide despite the decrease in total mortality. In 2021, an average 36.6 people per day committed suicide; that is one person per every 39 minutes. It is downright shocking that, if one lived in a hypothetical apartment complex housing about 4,000 residents, this number would be akin to one neighbor, friend, or family member per year. Moreover, as if this is not devastating enough, the recent lack of social relationship due to COVID-19 has only aggravated suicide rates.
 
@@ -52,7 +48,7 @@ Adolescent suicide has long become a serious societal problem in South Korea. Th
 
 Various attempts have gone underway in South Korea to lower this devastating suicide rate, which does not even seem to budge. For instance, in the capital Seoul, signposts with supportive messages were attached to particular "suicide bridges" on the Hangang River*, and phone booths were installed to connect attempters with suicide helpline service. Another preventive strategy came in the form of educational programs such as the "Watch-Listen-Talk Strategy" and the "Lifesaving Gatekeeper Program," where teenagers and young adults are regularly coached to sense and provide assistance to high-risk peers around them. While these efforts are agreed upon to have valid social impacts in themselves, they are not sufficient in reversing the steep incline of adolescent suicide that continues on. To overthrow this tendency, it is necessary to devise a more direct and precise intervention strategy, considering the characteristics of adolescents that "fall through the safety net."
 
-*Note: The Hangang River flows through the center of the Seoul metropolitan area with over 25 bridges across the half-mile-wide waters. Although the riverbank is well-known for its refreshing scenery and is a perfect picnic spot for many Seoulites, a few bridges across the river are unfortunately recognized as popular "suicide spots" to some.
+*Note: The Hangang River flows through the center of the Seoul metropolitan area with over 25 bridges across the 1km-wide (about 0.6 mi) waters. Although the riverbank is well-known for its refreshing scenery and is a perfect picnic spot for many Seoulites, a few bridges across the river are unfortunately recognized as popular "suicide spots" to some.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -110,11 +106,7 @@ The steep incline of adolescent suicide in spite of clinically significant preve
 
 An idealistic solution to the South Korean suicide crisis would be to promote social norm changes to allow individuals to acknowledge and seek help for their mental health problems, naturally resulting in adolescents with suicidal ideation receiving assistance as they need. Although this scenario does not seem impossible since younger generations in South Korea are becoming more vigilant towards mental health and well-being, the already devastating suicide rate that keeps rising rapidly by the minute calls for a more immediate approach. Taking into account the societal and cultural insensitivity towards suicidal ideation, the safety net against suicide could be widened by screening "silent" high-risk teens and young adults to intervene adequately. With this rationale, prediction models based on a combination of indirect variables, e.g. questionnaires and biological risk scores, could effectively detect the subtle nonverbal signals pointing to suicide. An investigation to compare and select such appropriate variables would thus provide valuable insights into early detection and prevention of adolescent suicide in South Korea.
 
-
-
 -----
-
-
 
 To evaluate suicide risk of suicide in adolescents, a good starting point is the differences between children with or without suicidal ideation. For this exemplary investigation, we included demographic information, polygenic risk scores (PRS), brain morphometry, functional magnetic resonance imaging (fMRI) and white matter diffusion MRI (dMRI) data, and child behavior checklist (CBCL) scores.
 
@@ -158,7 +150,7 @@ The efficacy of prediction models were compared according to sensitivity and spe
 
 Before training the initial model including all independent variables, we evaluated the predictability of each variable using a univariate GLM. We proceeded on to autoML on selected variables which showed significant predictability in simple linear regression (p < .05). The trained prediction model predicted the dependent variable (suicidal ideation) in a satisfactory manner (AUC = 0.950, sensitivity = 0.816, specificity = 0.990). It was notable that almost all CBCL variables passed the variable selection by solitary predictability and also expressed highly dominant explainability in the initial prediction model. The below right figure depicts that the top 11 variables with highest explainability were all from CBCL.
 
-Meanwhile, contrary to common belief, brain data failed to show meaningful predictability even from the variable selection process. Among brain morphometry, fMRI, and dMRI variables, only 2.57%, 0.29%, and 5.60% respectively were classified as significant. Though some dMRI variables could be distinguished for having moderate predictability, CBCL variables dominated all of these distinct variables by explainability. It is worth mentioning that distinguished dMRI variables pointed to the connectivity between left amygdala and left nucleus accumbens or left lateral orbitofrontal cortex, along with the connectivity between left insula and right middle temporal gyrus. These connections have been reported to constitute circuits related to anxiety, depression, or the reward system. Moreover, fMRI measurement of activity in the left nucleus accumbens also showed significant predictibility alone. Overall, we anticipated that predictability of these variables from brain data would improve when their interactions with PRS - PRS variables had negligible explainability - were included.
+Meanwhile, contrary to common belief, brain imaging data failed to show meaningful predictability even from the variable selection process. Among brain morphometry, fMRI, and dMRI variables, only 2.57%, 0.29%, and 5.60% respectively were classified as significant. Though some dMRI variables could be distinguished for having moderate predictability, CBCL variables dominated all of these distinct variables by explainability. It is worth mentioning that distinguished dMRI variables pointed to the connectivity between left amygdala and left nucleus accumbens or left lateral orbitofrontal cortex, along with the connectivity between left insula and right middle temporal gyrus. These connections have been reported to constitute circuits related to anxiety, depression, or the reward system. Moreover, fMRI measurement of activity in the left nucleus accumbens also showed significant predictibility alone. Overall, we anticipated that predictability of these variables from brain imaging data would improve when their interactions with PRS - PRS variables had negligible explainability - were included.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -169,20 +161,16 @@ Meanwhile, contrary to common belief, brain data failed to show meaningful predi
     </div>
 </div>
 <div class="caption">
-    (left) Initial autoML model including all independent variables. Explainability for each variable in the best fit is depicted.
-    (right) Proportion of selected brain data variables with significant predictability in the univariate GLM (p < .05).
-    GM, WM connectivity, and Task fMRI respectively refer to brain morphometry, dMRI, and fMRI data.
+     (left) Explainability for top 20 independent variables in the initial autoML model including all variables.
+     (right) Proportion of selected brain imaging data variables with significant predictability in the univariate
+     GLM (p < .05). GM, WM connectivity, and Task fMRI respectively refer to brain morphometry, dMRI, and fMRI data.
 </div>
 
 The striking predictability of CBCL scores on suicidal ideation was robustly reproduced in a different prediction model that included demographic and CBCL variables only (AUC = 0.966, sensitivity = 0.801, specificity = 0.990). Among the CBCL variables, high explainability was attributed to the "broadband" Total Problems score, encompassing internalizing or externalizing problems, alongside the "narrowband" Anxious/Depressed scale. Indeed, incorporated in these assessments are factors reported to be significantly related to suicidal ideation, e.g. dysfunctional behavior, anxiety and depression, and impulsivity.
 
 This led to a new research question: would requesting caregivers to fill out CBCL questionnaires be solely sufficient in precisely and effectively predicting and intervening with suicidal ideation?
 
-
-
 -----
-
-
 
 The prediction model for suicidal ideation centered on CBCL variables has one detrimental disadvantage: low sensitivity. This simple model has a specificity near 1, which means healthy participants without suicidal ideation are almost always appended the "safe" label. On the other hand, the model's low sensitivity (around 80%) indicates that among participants with suicidal ideation, 1 out of 5 are misunderstood as not having suicidal thoughts and are classified "safe." If this model is directly utilized in real life, it would not only fail to recognize 400 out of 2000 South Korean adolescents thinking of suicide (as of 2020), but would even misjudge them "safe."
 
@@ -200,20 +188,18 @@ To avoid the potential problems associated with low sensitivity, our next object
     </div>
 </div>
 <div class="caption">
-     Prediction results on testing data (525 participants) based on demographic and CBCL variables only. The rows indicate prediction results;
-     the columns indicate actual presence or absence of suicidal ideation (SI). This model's sensitivity is approximately 80%, meaning that
-     among participants with suicidal ideation, 1 out of 5 (in red) end up in false negatives (misunderstood as "safe").
+     Prediction results on testing data (525 participants) based on demographic and CBCL variables only. The rows indicate presence
+     or absence of suicidal ideation (SI); the columns indicate prediction results. This model's sensitivity is approximately 80%,
+     meaning that among participants with suicidal ideation, 1 out of 5 (in red) end up in false negatives (misunderstood as "safe").
 </div>
-
-
 
 -----
 
+How, and with what data, could we find "silent" teens and young adults thinking about suicide? The poor efficacy of the CBCL scores in detecting suicidal ideation in these individuals stems from the fact that the "silent" high-risk group is not well distinguished from healthy adolescents in terms of behavior. We hypothesized that for these high-risk individuals, an interaction term for relationships between biological signs (represented by PRS or brain imaging data) and behavioral traits (represented by CBCL scores) would assist in further, more accurate classifcation. For instance, certain behavioral characteristics common between "silent" suicide thinkers and the control group might coincide with a particular biological state A in the former and another biological state B in the latter. We attempted to account for this interaction by exploratively appending to our model several product terms between the existing variables.
 
+Another practical factor to put into consideration is the cost-effectiveness of the screening model. CBCL questionnaires are convenient to request caregivers to fill out, and they are relatively not time-consuming and inexpensive. On the other hand, genomic or brain imaging analyses would not be as convenient and take up more time and resources. Even if genomic or brain imaging analyses significantly increase suicidal ideation predictability when considered along with CBCL scores, these modalities should be administered only for detailed classification.
 
-자살사고를 행동으로 드러내지 않고 숨기고 있는 청소년을 잘 발견하려면, CBCL 점수 외의 어떤 자료를 어떻게 활용해야 할까? 내재된 자살사고 경향이 행동 척도로 잘 예측되지 않는 것은 곧, 자살사고를 숨기는 위험군이 겉으로는 건강한 청소년과 큰 차이가 없어 원활히 구분되지 않음을 의미한다. 따라서 자살사고를 숨기는 청소년의 더 세세한 분류에는 PRS와 뇌 관련 자료가 나타내는 내면의 경향을 행동 양식과 연관짓는 것이 도움이 될 수 있다. 즉 겉으로는 몇 가지 행동 특성이 비슷해 보이지만, 건강한 청소년은 A 상태에서 그런 행동을 하는 반면 자살사고를 숨기고 있는 청소년은 B 상태임에도 유사한 행동을 하는 식이다. 이런 복합적인 관계는 ML에서 변수들을 서로 곱하여 모형에 추가하는 형태로 구현할 수 있다.
-
-한 가지 더 고려할 만한 요소는 자살 위험도를 평가하는 예측 모형을 구축하는 데 드는 비용이다. CBCL 검사는 양육자에게 부탁하기도 편리하고, 시간 소모적이지 않으며, 비용도 비교적 저렴하다. 반면 세세한 분류를 위해 포함할 수 있는 유전체나 뇌 영상 분석은 시간 및 비용 문제와 더불어 검사 절차가 설문지만큼 간단하지는 않다. 따라서 유전체나 뇌 영상 분석이 CBCL 점수와 함께 고려될 때 자살사고 예측률을 유의미하게 증가시킨다고 해도, 그런 방법은 더 세세하게 구분해야 하는 때에만 시행하는 것이 적절할 것이다. CBCL 변수 중심 모형의 민감도를 보완하기 위해 다른 변수의 도입을 고려한 것이므로, CBCL 변수 중심 모형이 안전하다고 판단했던 청소년을 구분하는 데에 PRS나 뇌 영상 자료가 사용됨이 적절하다고 판단하였다. 물론 이런 방식은 위험군 중에서 고위험군과 저위험군을 세세하게 분류하는 통상적인 위험도 평가 모형과 차이를 보인다. 하지만 자살사망률을 감소시키려면 자살 위험이 없다고 오판되어 보호망을 빠져나가는 인원을 최소화하는 방법이 가장 효과적이라고 생각되었고, 그러려면 기존에 ‘안전’하다고 판단된 인원을 더 지켜보는 형태가 적절해 보였다.
+From the above rationale, the low sensitivity of the CBCL-centered model could be improved by employing PRS and brain imaging data to perform a secondary screening on individuals with no suicidal ideation, i.e. true and false negatives. This method is different from conventional complex screening algorithms that further classify the risk group according to degree of risk, but it is appropriate for suicide prevention where minimizing false negatives is crucial in "tightening the safety net."
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -221,14 +207,16 @@ To avoid the potential problems associated with low sensitivity, our next object
     </div>
 </div>
 <div class="caption">
-     인구통계학적 정보와 CBCL만으로 구성된 autoML 모형의 민감도 문제를 보완하기 위하여, 두 단계의 예측 모형을 순차적으로 적용하는 절차를 고안하였다.
+     To address low sensitivity issues of the CBCL-centered autoML model, we devised a stepwise, two-phase screening protocol.
 </div>
 
-요컨대 CBCL의 민감도 문제를 보완하기 위하여 두 단계의 자살 위험도 예측 모형을 순차적으로 적용하는 절차를 고안하였다. 1단계에는 전체 아동청소년 집단을 대상으로 CBCL 점수와 인구통계학적 정보를 반영하여 자살사고 여부를 예측한다. 자살사고가 있다고 판단된 아동은 바로 맞춤형 개입에 들어갈 수 있지만, 자살사고가 없다고 판단된 아동은 2단계 선별 절차를 거친다. 2단계는 1단계에서 자살사고가 없다고 판단된 아동 중 내재적으로 자살사고가 실제로 있는 아동을 선별하고자 하는데, 여기에서 위험하다고 판단된 아동 역시 맞춤형 개입의 대상이 된다.
+Consequently, we devised a two-phase suicide risk prediction protocol to find "silent" high-risk teens and young adults. In Phase 1, the CBCL-centered prediction model assesses demographic information and CBCL scores of the general adolescent population. Those who are positive for suicidal ideation can immediately arrange for intervention, and those who are negative go through secondary screening (Phase 2). Phase 2 selects "silent" high-risk adolescents with suicidal intent among those initially classified "safe," and these individuals can also benefit from intervention.
 
-위와 같은 절차의 2단계 모형으로 적절한 형태를 모색하고자, CBCL 점수와 인구통계학적 정보, 뇌 영상 자료를 다양한 조합으로 곱하여 autoML을 수행하였다. ML 학습은 기존과 같이 1225명의 학습용 자료로 진행하였으며, 성능 시험은 기존의 525명의 평가용 자료와 함께 2단계 절차에 적용될 때 적합성을 측정할 수 있는 시험 자료에 대해서도 추가로 진행하였다. 추가된 시험 자료는 기존에 CBCL 점수와 인구통계학적 정보만으로 구성된 예측 모형이 ‘안전하다’고 평가한 408명을 추출한 것이며, 적절한 자료 처리 과정을 통해 총 400명(건강한 아동 374명, 자살사고를 한 아동 26명)의 추가 시험 자료를 최종적으로 취하였다.
+We exploratively added product terms between CBCL scores, PRS, and brain imaging data in the autoML model to determine an adequate predictor for Phase 2. The new prediction models were trained and tested as described previously, but we additionally tested the models for adeptness as a Phase 2 screening algorithm. The dataset for additional testing was derived from individuals classified "safe" by the Phase 1 model*; subsequent processing yielded a total 400 participants (26 with suicidal ideation and 374 without).
 
-2단계 선별 절차에 활용될 수 있는 후보 autoML 모형들의 성능 평가 결과는 아래와 같다. CBCL 점수와 PRS, 뇌 영상 자료를 곱하여 독립 변수 목록에 추가하였을 때, 전체 자료를 대상으로 평가한 모형의 성능은 큰 변화가 없거나 오히려 인구통계학적 자료와 CBCL 점수만 포함한 모형보다 다소 저조했다. 그러나 1단계에서 안전하게 평가되었던 인원으로 구성된 추가 시험 자료를 대상으로 해당 모델들은 더 세부적인 구분이 용이한 것으로 드러났다.
+Below are the efficacy indices of prediction model candidates for Phase 2. When tested with general population data, appending product terms did not produce notable changes in efficacy, and some models were even slightly less effective than the CBCL-centered model. However, additional testing revealed that these models could screen a subgroup of high-risk participants that originally produced false negatives in the CBCL-centered model.
+
+*Note: We used this subset only for testing Phase 2 model candidates because the sample size was too small to both train and test models as described previously without potential reliability and overfitting issues. In future studies, these models could be trained and tested in larger datasets to become more effective in screening "silent" suicide thinkers.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -236,7 +224,8 @@ To avoid the potential problems associated with low sensitivity, our next object
     </div>
 </div>
 <div class="caption">
-     2단계 선별 절차에 활용될 수 있는 후보 autoML 모형들의 성능 평가 결과. Demographics는 인구통계학적 자료를 의미하며, dMRI라고 명시된 것은 dMRI 자료만, Brain이라고 명시된 것은 morphometry 및 fMRI 자료도 포함한 것이다. 모든 변수들은 일차적으로 단변수 GLM 모형에서 유의미한 예측력(p < .01)을 보인 것을 선별하여 분석하였다. 실질 민감도 및 실질 특이도는 추가 시험 자료를 대상으로 구분한 결과를 의미한다.
+     Efficacy indices of Phase 2 prediction model candidates. "Brain" indicates all brain imaging data (brain morphometry, fMRI, dMRI). All variables were
+     selected by significant solitary predictability in the univariate GLM (p < .01). Columns labeled "Phase 2" show efficacy indices for additional testing.
 </div>
 
 추가 시험 자료를 잘 분류한 2단계 선별 모형을 관찰했을 때, 공통적으로 CBCL 점수와 뇌 영상 자료를 곱한 항들의 설명력이 두드러지는 경향이 보였다. 특히 뇌 영상 중에서도 dMRI 자료가 CBCL 점수와 곱했을 때, CBCL 점수의 단독 설명 효과와 경합하는 양상을 보였다. 이는 백질 연결성을 나타내는 지표가 행동 특성과 연합되었을 때 건강한 아동과 유사한 행동 양식을 보이는 자살사고 내재 아동을 어느 정도 구별할 수 있음을 시사한다.
@@ -267,8 +256,8 @@ To avoid the potential problems associated with low sensitivity, our next object
      2단계 선별 절차에 적합한 autoML 모형. Demographics는 인구통계학적 자료를 의미하며, dMRI라고 명시된 것은 dMRI 자료만, Brain이라고 명시된 것은 morphometry 및 fMRI 자료도 포함한 것이다. 모든 변수들은 일차적으로 단변수 GLM 모형에서 유의미한 예측력(p < .01)을 보인 것을 선별하여 분석하였다. 아래 표는 추가 시험 자료 400명을 예측한 결과. 가로축은 모형의 예측 결과를, 세로축은 실제 자살사고(suicidal ideation, 이하 SI) 여부를 나타낸다.
 </div>
 
-요컨대 대한민국 아동청소년 자살사망률 감소를 위한 첫 걸음으로, 자살 위험군 아이들을 정확히 발견하는 예측 모형은 두 단계로 구성될 수 있다. 첫 단계는 전체 아동청소년 집단을 대상으로 양육자나 경우에 따라서는 임시 보호자, 교사 등이 CBCL 척도를 기록하고, 이를 인구통계학적 정보와 함께 수집하여 자살 위험도를 평가하는 것이다. 이때 안전하다고 평가된 아동들만을 대상으로 PRS 혹은 뇌 영상 자료를 위의 세부 구분 모형 각각에 알맞게 수집하여 자살사고를 내재한 ‘숨겨진 위험군’ 아동을 추가로 발견할 것이다. 이를 위한 국가적인 기구를 설립하고 절차를 진행하는 데 드는 대략의 예산은 다음과 같을 것으로 예상된다.
+요컨대 대한민국 아동청소년 자살사망률 감소를 위한 첫 걸음으로, 자살 위험군 아이들을 정확히 발견하는 예측 모형은 두 단계로 구성될 수 있다. 첫 단계는 전체 아동청소년 집단을 대상으로 양육자나 경우에 따라서는 임시 보호자, 교사 등이 CBCL 척도를 기록하고, 이를 인구통계학적 정보와 함께 수집하여 자살 위험도를 평가하는 것이다. 이때 안전하다고 평가된 아동들만을 대상으로 PRS 혹은 뇌 영상 자료를 위의 세부 구분 모형 각각에 알맞게 수집하여 자살사고를 내재한 ‘숨겨진 위험군’ 아동을 추가로 발견할 것이다.
 
 자살 위험도 예측을 통해 위험군 아동을 분류한 후에는, 비로소 간접적으로 ‘스며드는’ 맞춤형 개입이 가능해진다. 기존에 자살사고를 하는 아동청소년이 전문가를 찾아가 속을 털어놓기까지 많은 시간과 용기가 필요했던 반면, 이제는 전수 조사로 위험한 아이들을 발견하여 전문가가 ‘먼저 손을 내밀’ 수 있는 것이다. 해당 청소년에게 친근한 환경에서 방문 상담을 진행함은 물론, 적절한 약물치료도 병행할 수 있고, 주변 사람들과의 유대를 형성하고 문제해결 훈련을 진행하는 다중체계 접근을 택할 수도 있을 것이다. 자살사고를 하지 않도록 ‘치료’한다는 단순한 접근은 특히 질환에 대한 우리 사회의 태도를 고려할 때 청소년으로 하여금 자살사고를 낙인이나 잘못으로 치부할 여지를 줄 수 있다. 정밀한 예측 모형을 바탕으로 한 맞춤형 개입은 이러한 여지를 최소화한 채로, 자살사고의 근본 원인일 수 있는 불안이나 우울에 대하여 이야기를 나누고, 총체적으로 ‘더 나은 삶을 살아가도록 돕는’ 방향에서 접근할 수 있다는 데에 의의가 있다.
 
-아울러 이처럼 ‘먼저 손을 내미는’ 데에 활용되었던 아동청소년의 자살 위험도 평가 자료는 자살사고 여부 예측 외에도 다양한 활용처가 있다. 우선 장기적으로 자살사고의 기여 요인과 병태 생리 연구를 위한 ‘한국형 ABCD’ 자료를 구축하여, 인종 간 차이를 극복한 한국인 대상 자살사고 연구의 초석을 마련할 수 있을 것이다. 아울러 해당 평가 자료는 자살사고뿐 아니라 불안 및 우울장애, 주의력 결핍 문제, 공격행동 등 다양한 역기능적 요소와 관련지어 아동청소년 정신병리 연구에 폭넓게 활용될 수 있다는 점에서 매력적이다. 이러한 향후 활용 계획까지 고려하면 약 2400~3000억 원을 들여 대한민국 아동청소년 자살사망률을 효과적으로 낮출 수 있을 것으로 기대된다.
+아울러 이처럼 ‘먼저 손을 내미는’ 데에 활용되었던 아동청소년의 자살 위험도 평가 자료는 자살사고 여부 예측 외에도 다양한 활용처가 있다. 우선 장기적으로 자살사고의 기여 요인과 병태 생리 연구를 위한 ‘한국형 ABCD’ 자료를 구축하여, 인종 간 차이를 극복한 한국인 대상 자살사고 연구의 초석을 마련할 수 있을 것이다. 아울러 해당 평가 자료는 자살사고뿐 아니라 불안 및 우울장애, 주의력 결핍 문제, 공격행동 등 다양한 역기능적 요소와 관련지어 아동청소년 정신병리 연구에 폭넓게 활용될 수 있다는 점에서 매력적이다.
