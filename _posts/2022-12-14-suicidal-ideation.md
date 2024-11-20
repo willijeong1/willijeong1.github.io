@@ -1,30 +1,33 @@
 ---
 layout: post
-title: Reaching out firsthand - Precise prevention of adolescent suicide in South Korea
+title: Reaching out firsthand： precise prevention of adolescent suicide in South Korea
 date: 2022-12-14 12:00:00
 description: A proposal to lower South Korean adolescent suicide rates by CBCL-brain/PRS interaction-based risk prediction and precise intervention
-tags: suicidal-ideation precision-medicine
-categories: data-science-in-human-neuroimaging
+tags: suicide machine-learning Korea data-science-in-human-neuroimaging
+categories: psychology
 thumbnail: 
 ---
 
 *** This project was for a term paper in the "Data Science in Human Neuroimaging" course in Fall 2022, led by Dr. Jiook Cha (Department of Psychology, Seoul National University College of Social Sciences). I worked with two other students majoring in Psychology to devise and analyze the prediction model.
 
-*** An intriguing finding from this project was that behavioral assessment data showed a striking adeptness, compared to gene and brain imaging data, in generally predicting suicidal ideation. In retrospect, I believe this is an example describing the robust clinical efficacy of the current symptom-based diagnosis and treatment framework for psychiatric disorders. However, at the same time, it implies that the complex disparity between biological correlates and behavioral manifestations of mental illness, a major unsolved question in psychiatry research, would be nearly impossible to address without refining (or possibly revising) our current conceptualization of psychiatric disorders.
-
-*** Revisiting this originally Korean post in 2024 to translate it for potential international visitors, I again feel heartbroken looking at the still rising adolescent suicide rates in my country. Even the mere thinking of the unfathomable struggles these young people would have went through before deciding to voluntarily end their own life makes me shudder. The most frightening and frustrating part about this is that I, currently living in a society that puts excessive burden on the people but remains to deem mental illness as strictly taboo, can too understand in part why these thousands of already lost souls might have thought of suicide as the last and only option left. Life should not be this way for young South Koreans, or any other person in Korea, or the world for that matter. We need to do something, anything. NOW.
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_00.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {}
     </div>
 </div>
+<div class="caption">
+    Reaching out firsthand.
+</div>
+
+*** An intriguing finding from this project was that behavioral assessment data showed a striking adeptness, compared to gene and brain imaging data, in generally predicting suicidal ideation. In retrospect, I believe this is an example describing the robust clinical efficacy of the current symptom-based diagnosis and treatment framework for psychiatric disorders. However, at the same time, it implies that the complex disparity between biological correlates and behavioral manifestations of mental illness, a major unsolved question in psychiatry research, would be nearly impossible to address without refining (or possibly revising) our current conceptualization of psychiatric disorders.
+
+*** Revisiting this originally Korean post in 2024 to translate it for potential international visitors, I again feel heartbroken looking at the still rising adolescent suicide rates in my country. Even the mere thinking of the unfathomable struggles these young people would have went through before deciding to voluntarily end their own life makes me shudder. The most frightening and frustrating part about this is that I, currently living in a society that puts excessive burden on the people but remains to deem mental illness as strictly taboo, can too understand in part why these thousands of already lost souls might have thought of suicide as the last and only option left. Life should not be this way for young South Koreans, or any other person in Korea, or the world for that matter. We need to do something, anything. NOW.
+
+-----
 
 Adolescent suicide has long become a serious societal problem in South Korea. The country is now routinely scoring a disgraceful "first place" in age-adjusted suicide rates in OECD member countries. Suicide takes up the highest proportion in causes of South Korean adolescent death, and this number keeps increasing, leading to a paradoxical rise in suicide despite the decrease in total mortality. In 2021, an average 36.6 people per day committed suicide; that is one person per every 39 minutes. It is downright shocking that, if one lived in a hypothetical apartment complex housing about 4,000 residents, this number would be akin to one neighbor, friend, or family member per year. Moreover, as if this is not devastating enough, the recent lack of social relationship due to COVID-19 has only aggravated suicide rates.
 
@@ -91,13 +94,11 @@ PRS represents genetic susceptibility to sucidal ideation that one is born with;
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {}
     </div>
 </div>
 <div class="caption">
@@ -156,13 +157,11 @@ To avoid the potential problems associated with low sensitivity, our next object
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_15.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {}
     </div>
 </div>
 <div class="caption">
@@ -192,7 +191,11 @@ To avoid the potential problems associated with low sensitivity, our next object
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_17.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
@@ -205,7 +208,11 @@ To avoid the potential problems associated with low sensitivity, our next object
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_18.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
