@@ -53,10 +53,10 @@ Various attempts have gone underway in South Korea to lower this devastating sui
 <div class="row mt-3">
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_04.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_05.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
@@ -65,10 +65,10 @@ Various attempts have gone underway in South Korea to lower this devastating sui
 <div class="row mt-3">
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_06.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_07.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
