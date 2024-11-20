@@ -4,7 +4,7 @@ title: Reaching out firsthand： precise prevention of adolescent suicide in Sou
 date: 2022-12-14 12:00:00
 description: A proposal to lower South Korean adolescent suicide rates by CBCL-brain/PRS interaction-based risk prediction and precise intervention
 tags: suicide machine-learning Korea data-science-in-human-neuroimaging
-categories: psychology
+categories: psychology psychiatry
 thumbnail: 
 ---
 
@@ -14,7 +14,7 @@ thumbnail:
     <div class="col-sm mt-3 mt-md-0">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_00.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_00.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
     </div>
@@ -27,7 +27,11 @@ thumbnail:
 
 *** Revisiting this originally Korean post in 2024 to translate it for potential international visitors, I again feel heartbroken looking at the still rising adolescent suicide rates in my country. Even the mere thinking of the unfathomable struggles these young people would have went through before deciding to voluntarily end their own life makes me shudder. The most frightening and frustrating part about this is that I, currently living in a society that puts excessive burden on the people but remains to deem mental illness as strictly taboo, can too understand in part why these thousands of already lost souls might have thought of suicide as the last and only option left. Life should not be this way for young South Koreans, or any other person in Korea, or the world for that matter. We need to do something, anything. NOW.
 
+
+
 -----
+
+
 
 Adolescent suicide has long become a serious societal problem in South Korea. The country is now routinely scoring a disgraceful "first place" in age-adjusted suicide rates in OECD member countries. Suicide takes up the highest proportion in causes of South Korean adolescent death, and this number keeps increasing, leading to a paradoxical rise in suicide despite the decrease in total mortality. In 2021, an average 36.6 people per day committed suicide; that is one person per every 39 minutes. It is downright shocking that, if one lived in a hypothetical apartment complex housing about 4,000 residents, this number would be akin to one neighbor, friend, or family member per year. Moreover, as if this is not devastating enough, the recent lack of social relationship due to COVID-19 has only aggravated suicide rates.
 
@@ -52,16 +56,26 @@ Various attempts have gone underway in South Korea to lower this devastating sui
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_04.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_05.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_04.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/20221214_05.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_06.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_07.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
@@ -74,10 +88,20 @@ The steep incline of adolescent suicide in spite of clinically significant preve
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_08.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/20221214_08.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_09.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
@@ -86,7 +110,11 @@ The steep incline of adolescent suicide in spite of clinically significant preve
 
 An idealistic solution to the South Korean suicide crisis would be to promote social norm changes to allow individuals to acknowledge and seek help for their mental health problems, naturally resulting in adolescents with suicidal ideation receiving assistance as they need. Although this scenario does not seem impossible since younger generations in South Korea are becoming more vigilant towards mental health and well-being, the already devastating suicide rate that keeps rising rapidly by the minute calls for a more immediate approach. Taking into account the societal and cultural insensitivity towards suicidal ideation, the safety net against suicide could be widened by screening "silent" high-risk teens and young adults to intervene adequately. With this rationale, prediction models based on a combination of indirect variables, e.g. questionnaires and biological risk scores, could effectively detect the subtle nonverbal signals pointing to suicide. An investigation to compare and select such appropriate variables would thus provide valuable insights into early detection and prevention of adolescent suicide in South Korea.
 
+
+
 -----
+
+
 
 To evaluate suicide risk of suicide in adolescents, a good starting point is the differences between children with or without suicidal ideation. For this exemplary investigation, we included demographic information, polygenic risk scores (PRS), brain morphometry, functional magnetic resonance imaging (fMRI) and white matter diffusion MRI (dMRI) data, and child behavior checklist (CBCL) scores.
 
@@ -96,13 +124,14 @@ PRS represents genetic susceptibility to sucidal ideation that one is born with;
     <div class="col-sm mt-3 mt-md-0">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_10.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
-    The brain acts as the mediator in the interactions between inherited genotypes and environmenal influences to determine how behavioral characteristics manifest.
+    The brain acts as the mediator in the interactions between inherited genotypes
+    and environmenal influences to determine how behavioral characteristics manifest.
 </div>
 
 Environmental factors have major influences in the connection from genetic susceptibility to actual intent and commitment of suicide. Unfortunately, a comprehensive index representing infinitely diverse and individual lifestyles is yet to be established, hence we included some basic demographic information such as education level, marital status, and household income. We assumed that scores on the CBCL questionnaire, an intimate behavioral assessment filled out by caregivers, would complement the limitations of demographic data by accounting for environmental influences as incorporated into the child's observable behavior.
@@ -120,7 +149,7 @@ The efficacy of prediction models were compared according to sensitivity and spe
         {% include figure.liquid loading="eager" path="assets/img/20221214_11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_12.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_12.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -136,18 +165,24 @@ Meanwhile, contrary to common belief, brain data failed to show meaningful predi
         {% include figure.liquid loading="eager" path="assets/img/20221214_13.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_14.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_14.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    (left) Initial autoML model including all independent variables. Explainability for each variable in the best fit is depicted. (right) Proportion of selected brain data variables with significant predictability in the univariate GLM (p < .05). GM, WM connectivity, and Task fMRI respectively refer to brain morphometry, dMRI, and fMRI data.
+    (left) Initial autoML model including all independent variables. Explainability for each variable in the best fit is depicted.
+    (right) Proportion of selected brain data variables with significant predictability in the univariate GLM (p < .05).
+    GM, WM connectivity, and Task fMRI respectively refer to brain morphometry, dMRI, and fMRI data.
 </div>
 
 The striking predictability of CBCL scores on suicidal ideation was robustly reproduced in a different prediction model that included demographic and CBCL variables only (AUC = 0.966, sensitivity = 0.801, specificity = 0.990). Among the CBCL variables, high explainability was attributed to the "broadband" Total Problems score, encompassing internalizing or externalizing problems, alongside the "narrowband" Anxious/Depressed scale. Indeed, incorporated in these assessments are factors reported to be significantly related to suicidal ideation, e.g. dysfunctional behavior, anxiety and depression, and impulsivity.
 
 This led to a new research question: would requesting caregivers to fill out CBCL questionnaires be solely sufficient in precisely and effectively predicting and intervening with suicidal ideation?
 
+
+
 -----
+
+
 
 The prediction model for suicidal ideation centered on CBCL variables has one detrimental disadvantage: low sensitivity. This simple model has a specificity near 1, which means healthy participants without suicidal ideation are almost always appended the "safe" label. On the other hand, the model's low sensitivity (around 80%) indicates that among participants with suicidal ideation, 1 out of 5 are misunderstood as not having suicidal thoughts and are classified "safe." If this model is directly utilized in real life, it would not only fail to recognize 400 out of 2000 South Korean adolescents thinking of suicide (as of 2020), but would even misjudge them "safe."
 
@@ -159,16 +194,22 @@ To avoid the potential problems associated with low sensitivity, our next object
     <div class="col-sm mt-3 mt-md-0">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_15.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_15.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
-     Prediction results on testing data (525 participants) based on demographic and CBCL variables only. The rows indicate prediction results; the columns indicate actual presence or absence of suicidal ideation (SI). This model's sensitivity is approximately 80%, meaning that among participants with suicidal ideation, 1 out of 5 (in red) end up in false negatives (misunderstood as "safe").
+     Prediction results on testing data (525 participants) based on demographic and CBCL variables only. The rows indicate prediction results;
+     the columns indicate actual presence or absence of suicidal ideation (SI). This model's sensitivity is approximately 80%, meaning that
+     among participants with suicidal ideation, 1 out of 5 (in red) end up in false negatives (misunderstood as "safe").
 </div>
 
+
+
 -----
+
+
 
 자살사고를 행동으로 드러내지 않고 숨기고 있는 청소년을 잘 발견하려면, CBCL 점수 외의 어떤 자료를 어떻게 활용해야 할까? 내재된 자살사고 경향이 행동 척도로 잘 예측되지 않는 것은 곧, 자살사고를 숨기는 위험군이 겉으로는 건강한 청소년과 큰 차이가 없어 원활히 구분되지 않음을 의미한다. 따라서 자살사고를 숨기는 청소년의 더 세세한 분류에는 PRS와 뇌 관련 자료가 나타내는 내면의 경향을 행동 양식과 연관짓는 것이 도움이 될 수 있다. 즉 겉으로는 몇 가지 행동 특성이 비슷해 보이지만, 건강한 청소년은 A 상태에서 그런 행동을 하는 반면 자살사고를 숨기고 있는 청소년은 B 상태임에도 유사한 행동을 하는 식이다. 이런 복합적인 관계는 ML에서 변수들을 서로 곱하여 모형에 추가하는 형태로 구현할 수 있다.
 
@@ -176,7 +217,7 @@ To avoid the potential problems associated with low sensitivity, our next object
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_16.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_16.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -191,11 +232,7 @@ To avoid the potential problems associated with low sensitivity, our next object
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_17.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/20221214_17.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -210,7 +247,7 @@ To avoid the potential problems associated with low sensitivity, our next object
     <div class="col-sm mt-3 mt-md-0">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_18.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_18.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
     </div>
@@ -223,7 +260,7 @@ To avoid the potential problems associated with low sensitivity, our next object
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_19.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_19.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
