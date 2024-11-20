@@ -51,27 +51,27 @@ Various attempts have gone underway in South Korea to lower this devastating sui
 *Note: The Hangang River flows through the center of the Seoul metropolitan area with over 25 bridges across the 1km-wide (about 0.6 mi) waters. Although the riverbank is well-known for its refreshing scenery and is a perfect picnic spot for many Seoulites, a few bridges across the river are unfortunately recognized as popular "suicide spots" to some.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_04.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_05.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
 </div>
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_06.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_07.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
@@ -92,12 +92,12 @@ The steep incline of adolescent suicide in spite of clinically significant preve
     </div>
 </div>
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_09.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
@@ -113,17 +113,16 @@ To evaluate suicide risk of suicide in adolescents, a good starting point is the
 PRS represents genetic susceptibility to sucidal ideation that one is born with; this susceptibility, however, does not by itself lead directly to suicidal ideation. Inherited genotypes manifest as behavioral characteristics with influence from various environmental variables, and the brain acts as the mediator in the interactions between gene and environment. We employed brain morphometry (regional thickness and curvature) and dMRI data (connectivity in axon-rich white matter) to represent this mediator role. The fMRI data consists of regional activity levels during a "go-no-go" task, which represents the degree of impulse control in making a quick decision to or not to press a button following a given signal.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_10.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
-    The brain acts as the mediator in the interactions between inherited genotypes
-    and environmenal influences to determine how behavioral characteristics manifest.
+    The brain as the mediator of gene-environmental interactions to determine behavioral characteristics.
 </div>
 
 Environmental factors have major influences in the connection from genetic susceptibility to actual intent and commitment of suicide. Unfortunately, a comprehensive index representing infinitely diverse and individual lifestyles is yet to be established, hence we included some basic demographic information such as education level, marital status, and household income. We assumed that scores on the CBCL questionnaire, an intimate behavioral assessment filled out by caregivers, would complement the limitations of demographic data by accounting for environmental influences as incorporated into the child's observable behavior.
@@ -137,10 +136,10 @@ The efficacy of prediction models were compared according to sensitivity and spe
 *Note: Since there were no extensive datasets available for South Korean youth, we accessed the ABCD Study® for a general analysis including various ethnic and cultural backgrounds. By doing this, we also anticipated that the results could not only be applied to Korea, but also similar suicide intervention studies around the world. We strongly assert that establishing a South Korean youth database would immensely assist in national efforts against adolescent suicide.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_12.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -153,17 +152,25 @@ Before training the initial model including all independent variables, we evalua
 Meanwhile, contrary to common belief, brain imaging data failed to show meaningful predictability even from the variable selection process. Among brain morphometry, fMRI, and dMRI variables, only 2.57%, 0.29%, and 5.60% respectively were classified as significant. Though some dMRI variables could be distinguished for having moderate predictability, CBCL variables dominated all of these distinct variables by explainability. It is worth mentioning that distinguished dMRI variables pointed to the connectivity between left amygdala and left nucleus accumbens or left lateral orbitofrontal cortex, along with the connectivity between left insula and right middle temporal gyrus. These connections have been reported to constitute circuits related to anxiety, depression, or the reward system. Moreover, fMRI measurement of activity in the left nucleus accumbens also showed significant predictibility alone. Overall, we anticipated that predictability of these variables from brain imaging data would improve when their interactions with PRS - PRS variables had negligible explainability - were included.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_13.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0">
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_14.png" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
 </div>
 <div class="caption">
-     (left) Explainability for top 20 independent variables in the initial autoML model including all variables.
-     (right) Proportion of selected brain imaging data variables with significant predictability in the univariate
-     GLM (p < .05). GM, WM connectivity, and Task fMRI respectively refer to brain morphometry, dMRI, and fMRI data.
+     (left) Explainability for top 20 independent variables in the initial autoML model including all variables. (right) Proportion of selected brain imaging data variables with significant predictability in the univariate GLM (p < .05). GM, WM connectivity, and Task fMRI respectively refer to brain morphometry, dMRI, and fMRI data.
 </div>
 
 The striking predictability of CBCL scores on suicidal ideation was robustly reproduced in a different prediction model that included demographic and CBCL variables only (AUC = 0.966, sensitivity = 0.801, specificity = 0.990). Among the CBCL variables, high explainability was attributed to the "broadband" Total Problems score, encompassing internalizing or externalizing problems, alongside the "narrowband" Anxious/Depressed scale. Indeed, incorporated in these assessments are factors reported to be significantly related to suicidal ideation, e.g. dysfunctional behavior, anxiety and depression, and impulsivity.
@@ -188,9 +195,7 @@ To avoid the potential problems associated with low sensitivity, our next object
     </div>
 </div>
 <div class="caption">
-     Prediction results on testing data (525 participants) based on demographic and CBCL variables only. The rows indicate presence
-     or absence of suicidal ideation (SI); the columns indicate prediction results. This model's sensitivity is approximately 80%,
-     meaning that among participants with suicidal ideation, 1 out of 5 (in red) end up in false negatives (misunderstood as "safe").
+     Prediction results on testing data (525 participants) based on demographic and CBCL variables only. The rows indicate presence or absence of suicidal ideation (SI); the columns indicate prediction results. This model's sensitivity is approximately 80%, meaning that among participants with suicidal ideation, 1 out of 5 (in red) end up in false negatives (misunderstood as "safe").
 </div>
 
 -----
@@ -202,8 +207,12 @@ Another practical factor to put into consideration is the cost-effectiveness of 
 From the above rationale, the low sensitivity of the CBCL-centered model could be improved by employing PRS and brain imaging data to perform a secondary screening on individuals with no suicidal ideation, i.e. true and false negatives. This method is different from conventional complex screening algorithms that further classify the risk group according to degree of risk, but it is appropriate for suicide prevention where minimizing false negatives is crucial in "tightening the safety net."
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-1 mt-3 mt-md-0">
+    </div>
+    <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_16.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-1 mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
@@ -219,13 +228,16 @@ Below are the efficacy indices of prediction model candidates for Phase 2. When 
 *Note: We used this subset only for testing Phase 2 model candidates because the sample size was too small to both train and test models as described previously without potential reliability and overfitting issues. In future studies, these models could be trained and tested in larger datasets to become more effective in screening "silent" suicide thinkers.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_17.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
-     Efficacy indices of Phase 2 prediction model candidates. "Brain" indicates all brain imaging data (brain morphometry, fMRI, dMRI). All variables were
-     selected by significant solitary predictability in the univariate GLM (p < .01). Columns labeled "Phase 2" show efficacy indices for additional testing.
+     Efficacy indices of Phase 2 prediction model candidates. "Brain" indicates all brain imaging data (brain morphometry, fMRI, dMRI). All variables were selected by significant solitary predictability in the univariate GLM (p < .01). Columns labeled "Phase 2" show efficacy indices for additional testing.
 </div>
 
 추가 시험 자료를 잘 분류한 2단계 선별 모형을 관찰했을 때, 공통적으로 CBCL 점수와 뇌 영상 자료를 곱한 항들의 설명력이 두드러지는 경향이 보였다. 특히 뇌 영상 중에서도 dMRI 자료가 CBCL 점수와 곱했을 때, CBCL 점수의 단독 설명 효과와 경합하는 양상을 보였다. 이는 백질 연결성을 나타내는 지표가 행동 특성과 연합되었을 때 건강한 아동과 유사한 행동 양식을 보이는 자살사고 내재 아동을 어느 정도 구별할 수 있음을 시사한다.
@@ -233,12 +245,12 @@ Below are the efficacy indices of prediction model candidates for Phase 2. When 
 한편 CBCL 점수와 PRS 자료를 곱한 항들의 설명력은 비교적 미미하게 드러났다. 그렇다면 PRS는 자살사고 예측에 있어 효용성이 낮은 것일까? PRS와 뇌 영상, CBCL 점수를 모두 곱하여 독립 변수에 포함하였을 때 모형의 특이도가 개선되는 경향으로 보아, PRS는 타 자료와의 상호작용으로 예측 모형에 의미를 부여한다고 할 수 있겠다. 유전과 환경의 상호작용을 뇌가 매개한다는 관점에서 PRS와 뇌 영상의 상호작용 항은 단독 변수보다 높은 설명량을 지닌 것으로 예상되었다. 이 효과를 더 직접적으로 관찰하고자 인구통계학적 자료와 PRS, 뇌 영상을 각각 포함한 모형과, 그곳에 PRS와 뇌 영상 자료를 곱해 추가한 모형으로 전체 데이터에 대하여 autoML을 실시하였다. 그 결과 PRS와 뇌 영상 자료의 곱을 독립 변수로 포함하면 AUC나 전체 판단 대비 정확한 판단을 의미하는 정확도 지표가 괄목할 만한 개선을 보임을 알 수 있었다.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_18.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
