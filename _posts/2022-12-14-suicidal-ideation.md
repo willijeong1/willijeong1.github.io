@@ -64,10 +64,10 @@ Various attempts have gone underway in South Korea to lower this devastating sui
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_04_v2.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_04_v2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_05_v2.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_05_v2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
@@ -105,7 +105,7 @@ The steep incline of adolescent suicide in spite of clinically significant preve
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_09_v2.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_09_v2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
@@ -255,12 +255,12 @@ Examining the Phase 2 model candidates that were successful in the additional te
 Meanwhile, explainability of CBCL and PRS data product terms was relatively nondominant. Does this mean that PRS itself is not effective in predicting suicidal thoughts? Including triple product terms for PRS, brain imaging, and CBCL data improved the specificity of Phase 2 model candidates; thus PRS data could influence the classifying criteria through interactions with other variables. In fact, interactions between PRS and brain imaging data may explain more of the differences in suicide thinkers than when appended separately. We investigated this effect more directly by generating autoML models including either demographic information, PRS, and brain imaging data or the former plus product terms between PRS and brain imaging data. Indeed, appending PRS-brain imaging interactions as independent variables drove major improvements in the AUC or accuracy (proportion of classified data that match their true designations) indices.
 
 <div class="row mt-3">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_18_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
@@ -270,8 +270,12 @@ Meanwhile, explainability of CBCL and PRS data product terms was relatively nond
 In summary of the performances of Phase 2 screening model candidates on additional testing, dMRI data led to discovery of around half of "silent" suicide thinkers, although there was a decline in specificity. However, we could seek improvement in this lowered specificity by including interaction terms regarding PRS, brain morphometry, or fMRI data. PRS and brain imaging data, though with minuscule influences on data classification individually, might have potential in enhancing the accuracy of Phase 2 screening. We selected the best fit Phase 2 models as shown below.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_19_v2.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
@@ -287,3 +291,16 @@ One of the advantages this tedious but potentially effective approach has is tha
 On a further note, with the consent of providers, the valuable information obtained from these South Korean adolescents may open windows for future research to shed light on the contributing factors and pathophysiology of suicidal ideation. Developing a Korean version of the ABCD Study® would give rise to studies based on this ethnically and culturally unique population, adding to the existing literature on adolescent suicide as well as various dysfunctional behavior including mood disorders, attention deficit, aggression, and many others.
 
 Even at this hour, there are thousands of beautiful but fragile young South Koreans, and more adolescents around the world, who all are desperately reaching out, looking for someone to really listen to their voices and help them climb out of their suffering. "Reaching out firsthand" means engaging with them hand in hand, resonating with their troubles, and ultimately making a difference in the world for them, and for all of us, to enjoy our lives that we deserve to live to the fullest.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/20221214_20.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+</div>
+<div class="caption">
+    Making a difference.
+</div>
