@@ -293,12 +293,12 @@ On a further note, with the consent of providers, the valuable information obtai
 Even at this hour, there are thousands of beautiful but fragile young South Koreans, and more adolescents around the world, who all are desperately reaching out, looking for someone to really listen to their voices and help them climb out of their suffering. "Reaching out firsthand" means engaging with them hand in hand, resonating with their troubles, and ultimately making a difference in the world for them, and for all of us, to enjoy our lives that we deserve to live to the fullest.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20221214_20_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
