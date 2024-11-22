@@ -35,7 +35,7 @@ Adolescent suicide has long become a serious societal problem in South Korea. Th
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_01.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_01_v2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
@@ -44,10 +44,10 @@ Adolescent suicide has long become a serious societal problem in South Korea. Th
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_02.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_02_v2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_03.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_03_v2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
@@ -64,10 +64,10 @@ Various attempts have gone underway in South Korea to lower this devastating sui
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_04.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_04_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_05.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_05_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
@@ -76,10 +76,10 @@ Various attempts have gone underway in South Korea to lower this devastating sui
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_06.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_06_v2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_07.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_07_v2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
@@ -105,7 +105,7 @@ The steep incline of adolescent suicide in spite of clinically significant preve
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_09.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_09_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
@@ -137,7 +137,7 @@ PRS represents genetic susceptibility to sucidal ideation that one is born with;
 
 Environmental factors have major influences in the connection from genetic susceptibility to actual intent and commitment of suicide. Unfortunately, a comprehensive index representing infinitely diverse and individual lifestyles is yet to be established, hence we included some basic demographic information such as education level, marital status, and household income. We assumed that scores on the CBCL questionnaire, an intimate behavioral assessment filled out by caregivers, would complement the limitations of demographic data by accounting for environmental influences as incorporated into the child's observable behavior.
 
-Based on the above information, we performed automated machine learning (autoML) with the h2o package on R, a statistical computing software environment, to devise an effective screening model for children with high risk of suicide. Data for each variable was obtained from the ABCD (Adolescent Brain Cognitive Development) Study® on children 9-11 years of age in the United States*. The screening model was trained to predict whether a participant has suicidal ideation (dependent variable) from the indirect variables mentioned above (independent variables). We analyzed 1750 participants who reported suicidal ideation (experimental group) alongside participants without health problems (control group). Independent variables with excessive blank values or zero variance were removed to omit unintended bias in classification, and continuous variables were scaled to means of 0 and standard deviations of 1. For CBCL variables, raw scores (not T-scores) were scaled to allow for integrative analyses with variables from other modalities.
+Based on the above information, we performed automated machine learning (autoML) with the h2o package on R, a statistical computing software environment, to devise an effective screening model for children with high risk of suicide. Data for each variable was obtained from the ABCD (Adolescent Brain Cognitive Development) Study® on children 9–11 years of age in the United States*. The screening model was trained to predict whether a participant has suicidal ideation (dependent variable) from the indirect variables mentioned above (independent variables). We analyzed 1750 participants who reported suicidal ideation (experimental group) alongside participants without health problems (control group). Independent variables with excessive blank values or zero variance were removed to omit unintended bias in classification, and continuous variables were scaled to means of 0 and standard deviations of 1. For CBCL variables, raw scores (not T-scores) were scaled to allow for integrative analyses with variables from other modalities.
 
 We randomly assigned data for 525 participants (30% of total) to test the efficacy of models; the prediction model was trained on the remaining 1225 participants. This separation of training and testing data ensures high reliability in autoML results. To address overfitting issues where the devised model's prediction criteria adheres specifically to the training dataset and would not be effective to other, real-life datasets, we also randomly organized the training data of 1225 participants into 5 different folds. The autoML process automatically selected and optimized a combination of machine learning algorithms, e.g. generalized linear model (GLM), gradient boosting machine (GBM), deep learning, distributed random forest (DRF), and ensemble learning, to best predict suicidal ideation.
 
@@ -150,7 +150,7 @@ The efficacy of prediction models were compared according to sensitivity and spe
         {% include figure.liquid loading="eager" path="assets/img/20221214_11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_12.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_12_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -174,7 +174,7 @@ Meanwhile, contrary to common belief, brain imaging data failed to show meaningf
     <div class="col-sm-3 mt-3 mt-md-0">
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_14.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_14_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
     </div>
@@ -199,7 +199,7 @@ To avoid the potential problems associated with low sensitivity, our next object
     <div class="col-sm mt-3 mt-md-0">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_15.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_15_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
     </div>
@@ -220,7 +220,7 @@ From the above rationale, the low sensitivity of the CBCL-centered model could b
     <div class="col-sm-1 mt-3 mt-md-0">
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_16.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_16_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-1 mt-3 mt-md-0">
     </div>
@@ -241,7 +241,7 @@ Below are the efficacy indices of prediction model candidates for Phase 2. When 
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_17.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_17_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
@@ -258,7 +258,7 @@ Meanwhile, explainability of CBCL and PRS data product terms was relatively nond
     <div class="col-sm-3 mt-3 mt-md-0">
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_18.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_18_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
     </div>
@@ -271,7 +271,7 @@ In summary of the performances of Phase 2 screening model candidates on addition
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_19.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20221214_19_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
