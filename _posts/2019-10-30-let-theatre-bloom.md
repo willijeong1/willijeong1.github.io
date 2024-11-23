@@ -33,7 +33,7 @@ Listed below are the full videos of our two-hour-long performance. In terms of t
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=N6g92Rsh0hM" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/N6g92Rsh0hM?si=fzEaIpLWlx_NFhM5" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,7 +42,7 @@ Listed below are the full videos of our two-hour-long performance. In terms of t
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=6kPDCYec7_E" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/6kPDCYec7_E?si=r9I009Cr2kDW1gqb" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
