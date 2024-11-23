@@ -5,7 +5,7 @@ date: 2022-12-14 12:00:00
 description: A proposal to lower South Korean adolescent suicide rates by CBCL-brain/PRS interaction-based risk prediction and precise intervention
 tags: suicide machine-learning Korea data-science-in-human-neuroimaging
 categories: psychology psychiatry
-thumbnail: 
+thumbnail: assets/img/20221214_00.png
 ---
 
 *** This project was for a term paper in the "Data Science in Human Neuroimaging" course in Fall 2022, led by Dr. Jiook Cha (Department of Psychology, Seoul National University). I worked with two other students majoring in Psychology to devise and analyze the prediction model.
