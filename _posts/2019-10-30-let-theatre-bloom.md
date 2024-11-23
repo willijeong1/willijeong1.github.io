@@ -32,21 +32,19 @@ Deeply inspired by the novel, we felt the need to convey its valuable messages a
 Listed below are the full videos of our two-hour-long performance. In terms of the actual performance, I was music coordinator and also played Enjolras with the red and gold jacket.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/N6g92Rsh0hM" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Act 1.
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/6kPDCYec7_E" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
-    Act 2.
+    (left) Act 1. (right) Act 2.
 </div>
 
 I would like to express my deepest gratitude to all THE SCENE members, especially the four brilliant friends without whom the journey through the novel would have been merely unthinkable.
