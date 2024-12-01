@@ -25,6 +25,8 @@ After the [success](/blog/2019/let-theatre-bloom/) of "Les Misérables" in high 
 
 Let Me Start is a bustling club consisting of five teams (director, musical coordinator, actor, stage designer, and administrator) and hosts semiannual licensed performances, fully staging a show selected at the start of each semester. The works usually staged are original Korean musicals written for small casts, and club members devote their school breaks to intensive daily workshops on character development, scene-making, and musical numbers. As a member of the musical coordinator team, I took part in two such performances: "Airport Baby" in September 2021 as a new member and "Superman with the Moon" in February 2022 as music director.
 
+-----
+
 "Airport Baby" is the story of Josh Cohen, a young Korean American adopted to a Jewish household in the U.S. when he was two years old. Josh has an unsolved question about self-identity that countinuously haunted his mind throughout his childhood and adolescent years: "Where are my roots? Where did I come from?" Initially to meet his Korean birth mother, Josh returns to South Korea to discover the dark reality of his past, unexpectedly encountering friends also searching for "who they really are" on his way. Borrowing Josh's monologue near the end, he "lives in the present, finds the past, and now awaits the future."
 
 <div class="row justify-content-sm-center mt-3">
@@ -95,6 +97,8 @@ Let Me Start is a bustling club consisting of five teams (director, musical coor
 <div class="caption">
     This vlog is a glimpse of the typical 6-hour daily workshop for our "Superman with the Moon" performance. Club members devote their school breaks to intensive daily workshops on character development, scene-making, and musical numbers.
 </div>
+
+-----
 
 Aside from the performances, Let Me Start has a very lively community where I could make many close friends from different majors and backgrounds. There were club gatherings, occasional vlogs and special projects, and even gala performances (also open to past club members) where we would get together to sing and dance to some of our favorite musicals. However, among all those memories, those I really look back to are of the occasional heartwarming celebrations that we planned for each other.
 
