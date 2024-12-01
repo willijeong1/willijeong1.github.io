@@ -27,16 +27,12 @@ Let Me Start is a bustling club consisting of five teams (director, musical coor
 
 "Airport Baby" is the story of Josh Cohen, a young Korean American adopted to a Jewish household in the U.S. when he was two years old. Josh has an unsolved question about self-identity that countinuously haunted his mind throughout his childhood and adolescent years: "Where are my roots? Where did I come from?" Initially to meet his Korean birth mother, Josh returns to South Korea to discover the dark reality of his past, unexpectedly encountering friends also searching for "who they really are" on his way. Borrowing Josh's monologue near the end, he "lives in the present, finds the past, and now awaits the future."
 
-<div class="row mt-3">
-    <div class="col-sm-1 mt-3 mt-md-0">
-    </div>
+<div class="row justify-content-sm-center mt-3">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20220306_01.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20220306_02.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-1 mt-3 mt-md-0">
     </div>
 </div>
 <div class="row mt-3">
@@ -72,15 +68,15 @@ Let Me Start is a bustling club consisting of five teams (director, musical coor
     </div>
 </div>
 <div class="row mt-3">
-    <div class="col-sm-1 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20220306_07.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20220306_08_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-1 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
@@ -114,16 +110,12 @@ Aside from the performances, Let Me Start has a very lively community where I co
 <div class="caption">
     This is a special project in January 2022 that I organized as music director, featuring club members singing "You Will Be Found" from the Broadway musical "Dear Evan Hansen" to spread togetherness in the midst of COVID-19 quarantine. I translated the lyrics into Korean and directed practice workshops and recording sessions.
 </div>
-<div class="row mt-3">
-    <div class="col-sm-1 mt-3 mt-md-0">
-    </div>
+<div class="row justify-content-sm-center mt-3">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20220306_09_v2.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20220306_10.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-1 mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
