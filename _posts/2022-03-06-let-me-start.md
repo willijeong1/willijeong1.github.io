@@ -31,10 +31,10 @@ Let Me Start is a bustling club consisting of five teams (director, musical coor
     <div class="col-sm-1 mt-3 mt-md-0">
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20220306_01.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20220306_01.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20220306_02.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20220306_02.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-1 mt-3 mt-md-0">
     </div>
@@ -43,10 +43,10 @@ Let Me Start is a bustling club consisting of five teams (director, musical coor
     <div class="col-sm-3 mt-3 mt-md-0">
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20220306_03.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20220306_03.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20220306_04.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20220306_04.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
     </div>
@@ -63,10 +63,10 @@ Let Me Start is a bustling club consisting of five teams (director, musical coor
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20220306_05.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20220306_05.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20220306_06.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20220306_06.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-2 mt-3 mt-md-0">
     </div>
@@ -75,10 +75,10 @@ Let Me Start is a bustling club consisting of five teams (director, musical coor
     <div class="col-sm-1 mt-3 mt-md-0">
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20220306_07.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20220306_07.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20220306_08.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20220306_08.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-1 mt-3 mt-md-0">
     </div>
@@ -118,10 +118,10 @@ Aside from the performances, Let Me Start has a very lively community where I co
     <div class="col-sm-1 mt-3 mt-md-0">
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20220306_09.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20220306_09.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20220306_10.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20220306_10.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-1 mt-3 mt-md-0">
     </div>
