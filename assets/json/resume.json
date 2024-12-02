@@ -44,6 +44,17 @@
       "endDate": "2028-02-28",
       "score": "10",
       "courses": ["Thesis project: Resilience against trauma in North Korean defectors (in progress)","Relevant coursework: experimental psychology, personality, abnormal psychology, counseling, development, biopsychology, brain-mind-behavior seminar, data science in human neuroimaging"]
+    },
+    {
+      "institution": "Korean Minjok Leadership Academy",
+      "location": "Hoengseong, South Korea",
+      "url": "http://english.minjok.hs.kr/",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "2018-03-01",
+      "endDate": "2021-02-20",
+      "score": "10",
+      "courses": ["Yeongjae Merit Scholarship (partial tuition) from Fall 2018"]
     }
   ],
   "work": [
