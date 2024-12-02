@@ -83,20 +83,20 @@ layout: default
               {% case data[0] %}
                 {% when 'basics' %}
                   {% include resume/basics.liquid %}
-                {% when 'education and training' %}
-                  {% include resume/education and training.liquid %}
-                {% when 'professional experiences' %}
-                  {% include resume/professional experiences.liquid %}
+                {% when 'education' %}
+                  {% include resume/education.liquid %}
+                {% when 'work' %}
+                  {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
-                {% when 'honors and awards' %}
-                  {% include resume/honors and awards.liquid %}
+                {% when 'awards' %}
+                  {% include resume/awards.liquid %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
-                {% when 'publications and presentations' %}
-                  {% include resume/publications and presentations.liquid %}
+                {% when 'publications' %}
+                  {% include resume/publications.liquid %}
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}
                 {% when 'interests' %}
