@@ -100,7 +100,7 @@ Let Me Start is a bustling club consisting of five teams (director, musical coor
 
 -----
 
-Aside from the performances, Let Me Start has a very lively community where I could make many close friends from different majors and backgrounds. There were club gatherings, occasional vlogs and special projects, and even gala performances (also open to past club members) where we would get together to sing and dance to some of our favorite musicals. However, among all those memories, those I really look back to are of the occasional heartwarming celebrations that we planned for each other.
+Aside from the performances, Let Me Start has a very lively community where I could make many close friends from different majors and backgrounds. There were club gatherings, occasional vlogs and special projects, and even galas (also open to past club members) where we would get together to sing and dance to some of our favorite musicals. However, among all those memories, those I really look back to are of the heartwarming celebrations that we planned for each other.
 
 <div class="row mt-3">
     <div class="col-sm-4 mt-3 mt-md-0">
