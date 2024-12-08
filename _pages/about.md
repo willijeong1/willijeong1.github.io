@@ -19,7 +19,7 @@ Hello, I am Yeonwoo Jeong from South Korea. You can call me "William."
 
 As a medical student (MS2) in Seoul National University with a concurrent double major in Psychology, I aspire to become a warm-hearted neuropsychiatrist as well as develop a research career in biological psychiatry.
 
-My long-term research goal is to further refine our conceptualization of mental illness by bridging the gap between pathophysiology and symptom-based nosology of psychiatric disorders. By better characterizing the fundamental entities that comprise these dehumanizing conditions, we could get closer to breaking the painful stigmas cast upon those already suffering in agony.
+My long-term research goal is to further refine our conceptualization of mental illness by bridging the gap between pathophysiology and symptom-based nosology of psychiatric disorders. By better characterizing the fundamental entities that comprise these dehumanizing conditions, we could get closer to breaking the painful stigmas unnecessarily cast upon those already suffering in agony.
 
 As a means to this objective, I wish to intertwine pioneering discoveries in the emerging field of neuroimmunology with a profound understanding of the human mind achievable through clinical expertise. I believe brain immunity can effectively explain certain features (or subtypes) of mood disorders and, possibly, analogous characteristics in other diagnostic entities. Deciphering comparable biological mechanisms that span superficially heterogeneous conditions could facilitate the transition of exciting advances in modern neuroscience into novel therapeutic strategies. This would hopefully constitute more precise treatment options and individualized regimens to assist each and every patient to the fullest.
 
