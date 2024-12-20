@@ -59,13 +59,22 @@
   ],
   "work": [
     {
+      "name": "Department of Psychology, Scripps College",
+      "position": "Research Collaborator",
+      "url": "",
+      "startDate": "2024-11-13",
+      "endDate": "Present",
+      "summary": "Cultural and Developmental Psychology Lab. (PI: Heejung Park)",
+      "highlights": ["Self-identity in trauma-exposed individuals", "Culturally sensitive intervention strategies"]
+    },
+    {
       "name": "Department of Biomedical Sciences, Seoul National University",
       "position": "Student Research Assistant",
       "url": "https://biomed.snu.ac.kr/LND/",
       "startDate": "2021-12-14",
       "endDate": "Present",
-      "summary": "Laboratory of Neurological Disease (PI: Seung-Jae Lee)",
-      "highlights": ["Changes in alpha-synuclein-exposed oligodendrocytes in Parkinson's disease", "Neuron-to-oligodendrocyte alpha-synuclein transmission via TLR2 in multiple system atrophy", "TLR2 and oligodendroglial susceptibility to alpha-synuclein in synucleinopathies"]
+      "summary": "Lab. of Neurological Disease (PI: Seung-Jae Lee)",
+      "highlights": ["Changes in alpha-synuclein-exposed oligodendrocytes in Parkinson's disease", "Neuron-to-oligodendrocyte alpha-synuclein transmission via TLR2 in multiple system atrophy", "TLR2 activation in alpha-synucleinopathies"]
     }
   ],
   "publications": [
