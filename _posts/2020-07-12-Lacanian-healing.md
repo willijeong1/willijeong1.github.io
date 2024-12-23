@@ -3,7 +3,7 @@ layout: post
 title: The Korean concept of patient-centered medicine and healing： In comparison with Jacques Lacan’s “sinthome”-based psychoanalytic examination
 date: 2020-07-12 23:50:00
 description: An original French text research project on a record of Lacan’s public psychiatric discourse
-tags: patient-centered-care healing psychoanalysis Korea culturally-sensitive
+tags: healing psychoanalysis Korea culturally-sensitive French
 categories: psychology psychiatry
 thumbnail: assets/img/20200712_00.png
 ---
