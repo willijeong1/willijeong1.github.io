@@ -8,7 +8,7 @@ categories: psychology psychiatry
 thumbnail: assets/img/20200712_00.png
 ---
 
-*** This was an individual term project in the “French Reading & Writing Ⅱ” course in Spring 2020 at [Korean Minjok Leadership Academy](https://english.minjok.hs.kr/), supervised by the French teacher. This course, taken in the spring semester of the senior year (twelfth grade), is designed for advanced French learners at DELF B1–B2 level. Alongside reading and discussing “Le Petit Prince” by Antoine de Saint-Exupery and “L’étranger” by Albert Camus, this individual term project encouraged students (like me) to choose an originally French text and indulge in thoroughly understanding the material in its original entirety to incorporate it in a research topic of choice.
+*** This was an individual term project in the “French Reading & Writing Ⅱ” course in Spring 2020 at [Korean Minjok Leadership Academy](https://english.minjok.hs.kr/), supervised by the French teacher. This course, taken in the spring semester of the senior year (twelfth grade), is designed for advanced French learners at CEFR B1–B2 level. Alongside reading and discussing “Le Petit Prince” by Antoine de Saint-Exupery and “L’étranger” by Albert Camus, this individual term project encouraged students (like me) to choose an originally French text and indulge in thoroughly understanding the material in its original entirety to incorporate it in a research topic of choice.
 
 <div class="row justify-content-sm-center mt-3">
     <div class="col-sm-5 mt-3 mt-md-0">
