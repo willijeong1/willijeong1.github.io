@@ -60,12 +60,12 @@ Results
 To examine the effect of recalling experience of giving advice on overconfidence, Student’s t-test was applied to the number of correct answers in the testing session along with the participants’ predictions on future performance on a similar task. There was no significant difference between the control and experimental group in the number of correct answers in the testing session. However, the predicted number of correct answers in a prospective similar test was significantly higher in the experimental group (t(42) = 2.19, p = .018, d = 0.66). Meanwhile, the experimental group had a significant difference between the number of correct answers in the testing session and future performance prediction, which was non-existent in the control group (t(21) = 2.97, p = .004, d = 0.63). The finding that the experimental group over-predicts future task performance implies that reminiscence of giving advice induces overconfidence.
 
 <div class="row justify-content-sm-center mt-3">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20211223_01.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row justify-content-sm-center mt-3">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20211223_02.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
