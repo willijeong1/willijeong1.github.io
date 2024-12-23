@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cognitive overconfidence from reminiscence of giving advice
-date: 2022-12-23 22:00:00
+date: 2021-12-23 22:00:00
 description: The influence of empowering memories on anticipation of word recall task performance
 tags: overconfidence memory-task priming giving-advice
 categories: psychology
