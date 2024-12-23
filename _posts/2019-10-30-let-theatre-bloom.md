@@ -21,7 +21,7 @@ thumbnail: assets/img/20191030_00.png
     Let Theatre Bloom: Les Misérables in Hoengseong.
 </div>
 
-Putting together a full-blown musical performance was a challenge that appeared close to impossible for members of THE SCENE, a musical theatre club founded in 2018 in [Korean Minjok Leadership Academy](https://english.minjok.hs.kr/) (including me). We had almost no prior experience in actually staging shows before, let alone one of the world's finest masterpieces!
+Putting together a full-blown musical performance was a challenge that appeared close to impossible for members of THE SCENE, a musical theatre club founded in 2018 at [Korean Minjok Leadership Academy](https://english.minjok.hs.kr/) (including me). We had almost no prior experience in actually staging shows before, let alone one of the world's finest masterpieces!
 
 Setting on this overwhelming objective in the start of Spring 2019, we had so many worries about what could go wrong (who wouldn't?). However, as we spent tons and tons of our precious lunch and after-school hours steadily practicing and refining our performance, those worries eventually turned into hope. We even started to see ourselves in the characters; striving to live and love amidst frustrating, "miserable" conditions.
 
