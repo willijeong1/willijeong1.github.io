@@ -115,10 +115,17 @@ Human life exists as an inevitable constituent of society and environment, and t
 References
 
 Day, G. M. (1994). Western Abenaki dictionary: Volume 1: Abenaki-English. Ottawa: University of Ottawa Press.
+
 de Lucia, L. (2015). Priming memories: Effects on motivation and confidence. The Huron University College Journal of Learning and Motivation, 53(1), 34-83.
+
 Eskreis-Winkler, L., Fishbach, A., & Duckworth, A. L. (2018). Dear Abby: Should I give advice or receive it?. Psychological Science, 29(11), 1797-1806.
+
 Eskreis-Winkler, L., Milkman, K. L., Gromet, D. M., & Duckworth, A. L. (2019). A large-scale field experiment shows giving advice improves academic outcomes for the advisor. Proceedings of the National Academy of Sciences of the United States of America, 116(30), 14808-14810.
+
 Faul, F., Erdfelder, E., Lang, A.-G., & Buchner, A. (2007). G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behavior Research Methods, 39(2), 175-191.
+
 Fischer, M., & Oppenheimer, D. (2021). Harder than you think: How outside resistance leads to overconfidence. Psychological Science, 32(4), 598-610.
+
 Forsyth, D. R., Lawrence, N. K., Burnette, J. L., & Baumeister, R. F. (2007). Attempting to improve the academic performance of struggling college students by bolstering their self-esteem: An intervention that backfired. Journal of Social and Clinical Psychology, 26(4), 447-459.
+
 Schaerer, M., Tost, L. P., Huang, L., Gino, F., & Larrick, R. (2018). Advice giving: A subtle pathway to power. Personality and Social Psychology Bulletin, 44(5), 746-761.
