@@ -10,13 +10,9 @@ thumbnail: assets/img/20211223_00.jpg
 
 *** This was an individual term project in the “Introduction to Experimental Psychology & Lab.” course in Fall 2021, led by Dr. Jooyong Park (Department of Psychology, Seoul National University). This course is where students practice critiques and academic writing on a number of sample research topics before embarking on their own research projects.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center mt-3">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20211223_00.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 <div class="caption">
