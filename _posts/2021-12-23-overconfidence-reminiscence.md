@@ -80,7 +80,7 @@ To examine the effect of recalling experience of giving advice on overconfidence
 Student’s t-test was applied to the participants’ self-confidence and performance prediction for the current task to explore the factors contributing to overconfidence shown above. The experimental group exhibited significantly high levels of self-confidence and prior prediction of the number of correct answers in the testing session, compared to the control group (t(42) = 3.47, p < .001, d = 0.56; t(42) = 3.13, p = .002, d = 0.96). On the contrary, the post-testing prediction of the number of correct answers did not differ between experimental conditions and did not significantly differ from the actual number of correct answers in each group. The above results demonstrate that the experimental group, having recalled experience of giving advice, positively predicted their performance on the imminent cognitive task with high self-confidence. Post-testing performance evaluation of the already completed task, however, is less likely to exhibit such positive prediction.
 
 <div class="row justify-content-sm-center mt-3">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/20211223_03.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
