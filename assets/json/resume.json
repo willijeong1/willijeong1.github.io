@@ -43,7 +43,7 @@
       "startDate": "2021-03-01",
       "endDate": "2028-02-28",
       "score": "10",
-      "courses": ["Thesis project: Resilience against trauma in North Korean defectors (in progress)","Relevant coursework: experimental psychology, personality, abnormal psychology, counseling, development, biopsychology, brain-mind-behavior seminar, data science in human neuroimaging"]
+      "courses": ["Thesis project (in progress): Resilience against trauma in North Korean defectors","Relevant coursework: experimental psychology, personality, abnormal psychology, counseling, development, biopsychology, brain-mind-behavior seminar, data science in human neuroimaging"]
     },
     {
       "institution": "Korean Minjok Leadership Academy",
@@ -64,7 +64,7 @@
       "url": "",
       "startDate": "2024-11-13",
       "endDate": "Present",
-      "summary": "Park Lab. (Cultural & Developmental Psychology) (PI: Heejung Park)",
+      "summary": "Cultural & Developmental Psychology Lab. (PI: Heejung Park)",
       "highlights": ["Self-identity in trauma-exposed individuals", "Culturally sensitive intervention strategies"]
     },
     {
@@ -102,8 +102,8 @@
   ],
   "projects": [
     {
-      "name": "Resilience Against Trauma in North Korean Defectors",
-      "summary": "This is a collaborative interdisciplinary research project investigating protective characteristics related to resilience against early-life trauma in North Korean defector adolescents. In this ongoing endeavor to shed light on one of the most marginalized, underrepresented populations around the world, we plan on incorporating an extensive list of research settings to gather a holistic perspective: in-depth interviews, questionnaires, intensive group activities, ethnography, and even biomarker testing.",
+      "name": "Motivating Resilience Against Trauma in North Korean Defector Adolescents",
+      "summary": "This is a collaborative interdisciplinary research project investigating protective factors that motivate resilience against early-life trauma in North Korean defector adolescents. In this ongoing endeavor to shed light on one of the most marginalized, underrepresented populations around the world, we plan on incorporating an extensive list of research techniques in a summer camp setting to gather a holistic perspective: in-depth interviews, questionnaires, group activities, ethnography, and even biomarker testing.",
       "highlights": ["Advisor: Heejung Park, Scripps College Psychology"],
       "startDate": "2024-10-20",
       "endDate": "Present",
