@@ -43,7 +43,7 @@
       "startDate": "2021-03-01",
       "endDate": "2028-02-28",
       "score": "10",
-      "courses": ["Thesis project (in progress): Resilience against trauma in North Korean defectors","Relevant coursework: experimental psychology, personality, abnormal psychology, counseling, development, biopsychology, brain-mind-behavior seminar, data science in human neuroimaging"]
+      "courses": ["Thesis project (in progress): Conecptualization of resilience in the North Korean defector community","Relevant coursework: experimental psychology, personality, abnormal psychology, counseling, development, biopsychology, brain-mind-behavior seminar, data science in human neuroimaging"]
     },
     {
       "institution": "Korean Minjok Leadership Academy",
@@ -65,7 +65,7 @@
       "startDate": "2024-11-13",
       "endDate": "Present",
       "summary": "Cultural & Developmental Psychology Lab. (PI: Heejung Park)",
-      "highlights": ["Self-identity in trauma-exposed individuals", "Culturally sensitive intervention strategies"]
+      "highlights": ["Conceptualization of resilience in the North Korean defector community", "Motivating resilience against trauma in North Korean defector adolescents"]
     },
     {
       "name": "Department of Biomedical Sciences, Seoul National University",
@@ -74,7 +74,7 @@
       "startDate": "2021-12-14",
       "endDate": "Present",
       "summary": "Lab. of Neurological Disease (PI: Seung-Jae Lee)",
-      "highlights": ["Changes in alpha-synuclein-exposed oligodendrocytes in Parkinson's disease", "Neuron-to-oligodendrocyte alpha-synuclein transmission via TLR2 in multiple system atrophy", "TLR2 activation in alpha-synucleinopathies"]
+      "highlights": ["Changes in alpha-synuclein-exposed oligodendrocytes in Parkinson's disease", "Neuron-to-oligodendrocyte alpha-synuclein transmission via TLR2 in multiple system atrophy", "TLR2 & innate immunity in alpha-synucleinopathies"]
     }
   ],
   "publications": [
@@ -83,21 +83,21 @@
       "publisher": "",
       "releaseDate": "2025-04-13",
       "url": "",
-      "summary": "Oral session to be presented at 39th Seoul National University College of Medicine Alumni Association of North America Convention."
+      "summary": "Oral session to be presented at 39th Seoul National University College of Medicine Alumni Association of North America Convention, Falls Church, VA."
     },
     {
       "name": "Neuron-to-oligodendrocyte alpha-synuclein transmission in multiple system atrophy is mediated by Toll-like receptor 2",
       "publisher": "",
       "releaseDate": "2024-12-05",
       "url": "",
-      "summary": "Poster session presented at 1st Seoul National University Physician-Scientist Training Program Workshop."
+      "summary": "Poster session presented at 1st Seoul National University Physician-Scientist Training Program Workshop, Incheon, South Korea."
     },
     {
       "name": "Expression of neural phenotype in alpha-synuclein-exposed human oligodendrocytes",
       "publisher": "",
       "releaseDate": "2022-12-16",
       "url": "",
-      "summary": "Oral session presented at 2022 Seoul National University Premedical Course Research Festival."
+      "summary": "Oral session presented at 2022 Seoul National University Premedical Course Research Festival, Seoul, South Korea."
     }
   ],
   "projects": [
@@ -111,6 +111,13 @@
     }
   ],
   "awards": [
+    {
+      "title": "Travel Award for the 39th SNUCMAA Convention",
+      "date": "2025-04-13",
+      "awarder": "Seoul National University College of Medicine Alumni Association of North America (SNUCMAA)",
+      "url": "",
+      "summary": "Awarded to 10 abstracts from medical students or graduates of Seoul National University selected for oral presentation at the 39th SNUCMAA Convention."
+    },
     {
       "title": "Health Fellowship Foundation Research Scholarship",
       "date": "2024-08-20",
@@ -128,14 +135,14 @@
     {
       "title": "Premedical Course Dean's List",
       "date": "2023-01-16",
-      "awarder": "Seoul National University College of Medicine",
+      "awarder": "Seoul National University",
       "url": "",
       "summary": "Awarded to 10 students with highest total GPA at completion of the premedical program. (GPA: 3.91/4.00)"
     },
     {
       "title": "Premedical Student Research Award",
       "date": "2022-12-16",
-      "awarder": "Seoul National University College of Medicine",
+      "awarder": "Seoul National University",
       "url": "",
       "summary": "Awarded to 2 among 45 research participants in the premedical course, after oral presentation of selected abstracts ($1,000 scholarship). My presentation was displayed as an exemplary research output in the premedical course student orientation resources for 2023."
     },
