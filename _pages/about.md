@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I am Yeonwoo Jeong from South Korea. You can call me "William."
+Hello, my name is Yeonwoo Jeong, and I also go by "William."
 
 As a medical student (MS2) in Seoul National University with a concurrent double major in Psychology, I aspire to become a warm-hearted neuropsychiatrist as well as develop a research career in biological psychiatry.
 
