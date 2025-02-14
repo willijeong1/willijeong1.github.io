@@ -6,7 +6,7 @@
     "email": "willijeong1@gmail.com",
     "phone": "",
     "url": "https://willijeong1.github.io/",
-    "summary": "As a medical student in Seoul National University with a double major in Psychology, I aspire to become a warm-hearted neuropsychiatrist as well as develop a research career in biological psychiatry. My long-term research goal is to bridge the gap between psychiatric nosology and pathophysiology by intertwining pioneering discoveries in neuroimmunology with a profound understanding of the human mind achievable through clinical expertise.",
+    "summary": "As a medical student in Seoul National University with a concurrent double major in Psychology, I aspire to become a warm-hearted neuropsychiatrist as well as develop a research career in biological psychiatry. My long-term research goal is to bridge the gap between psychiatric nosology and pathophysiology by intertwining pioneering discoveries in neuroimmunology with a profound understanding of the human mind achievable through clinical expertise.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -43,7 +43,7 @@
       "startDate": "2021-03-01",
       "endDate": "2028-02-28",
       "score": "10",
-      "courses": ["Thesis project (in progress): Conecptualization of resilience in the North Korean defector community","Relevant coursework: experimental psychology, personality, abnormal psychology, counseling, development, biopsychology, brain-mind-behavior seminar, data science in human neuroimaging"]
+      "courses": ["Thesis (in progress): Meaning-making through giving and caring in traumatized communities","Relevant coursework: experimental psychology, personality, abnormal psychology, counseling, development, biopsychology, brain-mind-behavior seminar, data science in human neuroimaging"]
     },
     {
       "institution": "Korean Minjok Leadership Academy",
@@ -61,11 +61,11 @@
     {
       "name": "Department of Psychology, Scripps College (Claremont Colleges)",
       "position": "Research Collaborator",
-      "url": "",
+      "url": "https://www.scrippscollege.edu/offices/profile/heejung-park",
       "startDate": "2024-11-13",
       "endDate": "Present",
       "summary": "Cultural & Developmental Psychology Lab. (PI: Heejung Park)",
-      "highlights": ["Conceptualization of resilience in the North Korean defector community", "Motivating resilience against trauma in North Korean defector adolescents"]
+      "highlights": ["Motivating resilience against trauma in North Korean defector adolescents", "Meaning-making and resilience in traumatized communities"]
     },
     {
       "name": "Department of Biomedical Sciences, Seoul National University",
@@ -102,9 +102,17 @@
   ],
   "projects": [
     {
+      "name": "Profiling Vaccine-Related Immunological Adverse Reactions in Pharmacovigilance Reports",
+      "summary": "Employing the Vaccine Adverse Event Reporting System (VAERS), a U.S. vaccine safety program managed by the CDC and the FDA, our team is compiling and analyzing case reports of a particular type of immunological adverse reaction following vaccination. This research project aims to raise clinical awareness about this devastating yet often overlooked condition, also suggesting implications for etiological research.",
+      "highlights": ["Advisor: Sun-Young Yum, Brain Boutique, Inc."],
+      "startDate": "2025-01-08",
+      "endDate": "Present",
+      "url": ""
+    },
+    {
       "name": "Motivating Resilience Against Trauma in North Korean Defector Adolescents",
-      "summary": "This is a collaborative interdisciplinary research project investigating protective factors that motivate resilience against early-life trauma in North Korean defector adolescents. In this ongoing endeavor to shed light on one of the most marginalized, underrepresented populations around the world, we plan on incorporating an extensive list of research techniques in a summer camp setting to gather a holistic perspective: in-depth interviews, questionnaires, group activities, ethnography, and even biomarker testing.",
-      "highlights": ["Advisor: Heejung Park, Scripps College Psychology"],
+      "summary": "This is a collaborative interdisciplinary research project investigating protective factors that motivate resilience against trauma in North Korean defector adolescents. In this ongoing endeavor to shed light on one of the most marginalized, underrepresented populations around the world, we plan on incorporating a plethora of research techniques in a casual, everyday setting to gather a holistic perspective: in-depth interviews, questionnaires, participatory activities, ethnography, and even biomarker testing.",
+      "highlights": ["Advisors: Heejung Park, Scripps College Psychology; Jessica Chiang, Georgetown Psychology"],
       "startDate": "2024-10-20",
       "endDate": "Present",
       "url": ""
@@ -116,7 +124,7 @@
       "date": "2025-04-13",
       "awarder": "Seoul National University College of Medicine Alumni Association of North America (SNUCMAA)",
       "url": "",
-      "summary": "Awarded to 10 abstracts from medical students or graduates of Seoul National University selected for oral presentation at the 39th SNUCMAA Convention ($1,500 scholarship)."
+      "summary": "Awarded to 8 abstracts among those accepted for oral presentation at the 39th SNUCMAA Convention ($1,500)."
     },
     {
       "title": "Health Fellowship Foundation Research Scholarship",
@@ -130,7 +138,7 @@
       "date": "2024-03-24",
       "awarder": "Hakgye Scholarship Culture Foundation",
       "url": "",
-      "summary": "Awarded to distinctive candidates among 150 nationwide applicants, based on academic achievement and potential."
+      "summary": "Awarded to distinctive candidates among 150 nationwide applicants, based on academic achievement and potential (full tuition until graduation)."
     },
     {
       "title": "Premedical Course Dean's List",
