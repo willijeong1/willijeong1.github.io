@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Medicine & Psychology @ Seoul National University | Researcher in Biological Psychiatry | Talent Award of Korea #<a href=''></a>. 
+subtitle: Medicine & Psychology @ Seoul National University | Biopsychiatry Researcher | Talent Award of Korea #<a href=''></a>. 
 
 profile:
   align: right
