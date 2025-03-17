@@ -157,7 +157,7 @@
     {
       "title": "Volunteer Social Service Award",
       "date": "2021-06-29",
-      "awarder": "Seoul National University",
+      "awarder": "Seoul National University Social Responsibility",
       "url": "",
       "summary": "Awarded to 5 among 142 participants in Volunteer Social Service, an elective volunteering program in Seoul National University."
     },
@@ -185,14 +185,24 @@
   ],
   "volunteer": [
     {
+      "organization": "The Claremont Colleges",
+      "location": "Seoul, South Korea",
+      "position": "Advisory Collaborator",
+      "url": "",
+      "startDate": "2025-05-21",
+      "endDate": "2025-06-17",
+      "summary": "Designing & Managing an English Learning Program for Youth from Diverse Backgrounds",
+      "highlights": ["Coming soon!"]
+    },
+    {
       "organization": "Study With Me",
       "location": "Seoul, South Korea",
       "position": "Student Mentor",
       "url": "",
       "startDate": "2021-08-04",
       "endDate": "2023-12-29",
-      "summary": "",
-      "highlights": ["Advised and supported 48 middle/high school students, mainly focusing on career pathways, recommended skillsets in achieving life goals, upkeeping mental health, etc.", "In-depth virtual & on-site sessions to delve into mentees' true dreams and desires, actively discussing various aspects of their life to understand them as a whole person.", "Emotional support for students intimidated by the hyper-competitive Korean college application process, working together to find out their unique colors and promote well-being."]
+      "summary": "Mentoring Middle & High School Students to Envision Career and Life",
+      "highlights": ["Advised and supported 48 middle & high school students, mainly focusing on career pathways, recommended skillsets in achieving life goals, upkeeping mental health, etc.", "In-depth virtual & on-site sessions (approx. 2–3 hrs per session) to delve into mentees' true dreams and desires, actively discussing various aspects of their everyday life to understand them as a whole person.", "Emotional support for students intimidated by the hyper-competitive Korean college application process, working together to find out their unique colors and promote well-being."]
     },
     {
       "organization": "Seoul National University",
@@ -201,8 +211,8 @@
       "url": "http://tenspoon.org/",
       "startDate": "2022-03-16",
       "endDate": "2022-05-25",
-      "summary": "",
-      "highlights": ["Worked weekly as a server in the college canteen, associated with Tenspoon, a non-profit organization which provides meal vouchers to students from low-income families with wages earned by volunteer cafeteria workers."]
+      "summary": "Cafeteria Server for the Equitable College Community, with Tenspoon",
+      "highlights": ["Worked weekly as a server in the college canteen, associated with Tenspoon (십시일밥 in Korean), a non-profit organization which provides meal vouchers to students from low-income families with wages earned by volunteer cafeteria workers."]
     },
     {
       "organization": "Gangnam Public Health Center",
@@ -215,53 +225,53 @@
       "highlights": ["Packaging COVID-19 self-test (rapid antigen test) kits to be distributed to visitors (20 hrs total)."]
     },
     {
-      "organization": "52school",
+      "organization": "52 School",
       "location": "Seoul, South Korea",
       "position": "Education Mentor",
       "url": "",
       "startDate": "2021-09-12",
       "endDate": "2021-10-17",
-      "summary": "",
-      "highlights": ["Book club mentor with 3 teenage students, 4 sessions on Psychiatry for Teens by Jee Hyun Ha (Korean essay).", "Discussed psychoanalysis, the brain & mind, diagnosis of mental disorders, psychology experiments (each mentee shared their most intriguing ones), patient-centered care & healing, etc.", "Holistic view of psychiatric diagnosis & therapy with various multimedia tools, e.g. Homeless by Anna Quindlen (essay), How 'Mad' Are You? (2018 SBS Australia documentary)."]
+      "summary": "Leading a Psychology & Psychiatry Book Club for Teenagers",
+      "highlights": ["Hosted a book club for 3 teenage students, meeting for 4 sessions on Psychiatry for Teens (청소년을 위한 정신의학 에세이 in Korean) by Jee Hyun Ha (Korean essay).", "Discussed psychoanalysis, the brain & mind, diagnosis of mental disorders, psychology experiments (each mentee shared their most intriguing ones), patient-centered care & healing, etc.", "Holistic view of psychiatric diagnosis & therapy with various multimedia tools, e.g. Homeless by Anna Quindlen (essay), How 'Mad' Are You? (2018 SBS Australia documentary)."]
     },
     {
-      "organization": "Peachmarket",
+      "organization": "Seoul National University Social Responsibility",
       "location": "Seoul, South Korea",
       "position": "Education Mentor",
       "url": "https://peachmarket.kr/",
       "startDate": "2021-03-02",
       "endDate": "2021-06-07",
-      "summary": "",
-      "highlights": ["Prepared & led weekly critical reading sessions for a slow learner student in middle school.", "Gathering excerpts from news articles, Korean novels, etc. in line with the student's preferences and needs, openly discussing relevant questions about the reading material to enhance overall literacy and understanding of the weekly topic."]
+      "summary": "Learning Mentor for a Middle School Student, with Peachmarket",
+      "highlights": ["Prepared & led weekly critical reading sessions for a slow learner student in middle school, under the guidance of Peachmarket (피치마켓 in Korean), an organization advocating for personalized study materials aligning with diverse backgrounds and environments.", "Gathering excerpts from news articles, Korean novels, etc. in line with the student's preferences and needs, openly discussing relevant questions about the reading material to enhance overall literacy and understanding of the weekly topic."]
     },
     {
-      "organization": "Wooridul School",
+      "organization": "Korean Minjok Leadership Academy",
       "location": "Seoul, South Korea",
-      "position": "Advisory Committee Member",
-      "url": "http://www.wooridulschool.org/",
+      "position": "Advisory Collaborator",
+      "url": "",
       "startDate": "2020-07-11",
       "endDate": "2021-08-10",
-      "summary": "",
-      "highlights": ["Helped create On My Way, a novel English musical performance based on real life stories of teenage North Korean defectors in Wooridul School (charter school for NK defector & multicultural adolescents).", "Advisory roles in intensive workshops (63 hrs total) including character & plot development, music arrangement, and directing."]
+      "summary": "Phase 2 (Let Theatre Grow) of Theatre Together",
+      "highlights": ["Contributed to creating and staging On My Way, a novel English musical performance based on real life stories of students from North Korean backgrounds.", "Collaborated with fellow THE SCENE (musical theatre club) members and St. Paul Preparatory Seoul students, working with an alternative school for NK defector & multicultural youth.", "Advisory roles in intensive workshops (63 hrs total) including character & plot development, music arrangement, and directing."]
     },
     {
-      "organization": "THE SCENE",
+      "organization": "Korean Minjok Leadership Academy",
       "location": "Hoengseong, S. Korea",
-      "position": "Actor",
+      "position": "Actor & Music Coordinator",
       "url": "https://www.facebook.com/KMLATheScene",
       "startDate": "2019-05-19",
       "endDate": "2019-11-23",
-      "summary": "",
-      "highlights": ["Spreading the value of sharing by Theatre Together project with fellow THE SCENE (KMLA musical theatre club) members.", "Hosted & took part in regular cultural events for the locals in Hoengseong, e.g. the elderly in nursing homes, recreation forest festival, local food festival, provincial youth musical gala, etc.", "Rearranged Les Misérables to be more in terms with Korean culture, translated & provided 1600 lines of Korean subtitles for the full performance."]
+      "summary": "Phase 1 (Let Theatre Bloom) of Theatre Together",
+      "highlights": ["Spreading the value of sharing through the Theatre Together project with fellow THE SCENE (musical theatre club) members.", "Hosted & took part in regular cultural events for the locals in Hoengseong, e.g. the elderly in nursing homes, recreation forest festival, local food festival, provincial youth musical gala, etc.", "Rearranged Les Misérables to be more in terms with Korean culture, translated & provided 1600 lines of Korean subtitles for the full performance."]
     },
     {
       "organization": "Connect Foundation",
       "location": "Seoul, South Korea",
-      "position": "Education Mentor",
+      "position": "English Translator",
       "url": "https://connect.or.kr/",
       "startDate": "2018-08-04",
       "endDate": "2019-12-15",
-      "summary": "",
+      "summary": "English-to-Korean Translator for Khan Acdaemy Videos",
       "highlights": ["Worked 166 hrs total as a volunteer English-to-Korean translator, wrote subtitles for Khan Academy educational videos (biology, chemistry, medicine, mathematics, etc.).", "Nominated as excellent & diligent volunteer."]
     }
   ],
