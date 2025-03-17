@@ -24,7 +24,7 @@ My long-term research goal is to further refine our conceptualization of mental 
 
 For this objective, I wish to intertwine pioneering discoveries in the emerging field of neuroimmunology with a profound understanding of the human mind achievable through clinical expertise. I believe brain immunity can explain certain features (or subtypes) of mood disorders, along with analogous characteristics in other diagnostic entities. Deciphering comparable biological mechanisms that span the superficial heterogeneity of mental illness could facilitate the transition of exciting advances in modern neuroscience into more precise ways to assist each and every patient to the fullest.
 
-Moreover, I am genuinely intrigued by the infinite human potential and integrity that protects against mental illness, turning challenges into opportunities. Striving to gain knowledge and experience that extends from molecular mechanisms to society and culture, I hope to support all of us in cherishing the vibrancy of each and every moment life has in store.
+Moreover, I am genuinely intrigued by the infinite human potential and integrity that protects against mental illness, turning challenges into opportunities. Striving to gain knowledge and experience that extends from molecular mechanisms to society and culture, I hope to support all of us in cherishing the vibrancy of the invaluable moments life has in store.
 
 My current academic interests are:
 <p>1) The induction and progression of neuroinflammation, and the role of neuron-glia interactions in such immunopathology.</p>
