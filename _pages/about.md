@@ -22,11 +22,11 @@ With an academic background of psychology, medicine, and neuroscience across S. 
 
 My long-term research goal is to further refine our conceptualization of mental illness by better categorizing the fundamental entities that underpin these dehumanizing conditions. The better we know about mental illness, the better we can think of effective therapeutic strategies against it and, more importantly, break the painful stigmas that hinder these efforts.
 
-As a means to this objective, I wish to intertwine pioneering discoveries in the emerging field of neuroimmunology with a profound understanding of the human mind achievable through clinical expertise. I believe brain immunity can explain certain features (or subtypes) of mood disorders, along with analogous characteristics in other diagnostic entities. Deciphering comparable biological mechanisms that span the superficial heterogeneity of mental illness could facilitate the transition of exciting advances in modern neuroscience into more precise ways to assist each and every patient to the fullest.
+For this objective, I wish to intertwine pioneering discoveries in the emerging field of neuroimmunology with a profound understanding of the human mind achievable through clinical expertise. I believe brain immunity can explain certain features (or subtypes) of mood disorders, along with analogous characteristics in other diagnostic entities. Deciphering comparable biological mechanisms that span the superficial heterogeneity of mental illness could facilitate the transition of exciting advances in modern neuroscience into more precise ways to assist each and every patient to the fullest.
 
 Moreover, I am genuinely intrigued by the infinite human potential and integrity that protects against mental illness, turning challenges into opportunities. Striving to gain knowledge and experience that extends from molecular mechanisms to society and culture, I hope to support all of us in chreishing the vibrancy of what life has in store for us.
 
-With a background in molecular biology and psychology, my current academic interests are:
+My current academic interests are:
 <p>1) The induction and progression of neuroinflammation, and the role of neuron-glia interactions in such immunopathology.</p>
 <p>2) Anatomical and/or physiological differences that make certain brain regions more susceptible to particular abnormalities in brain immunity.</p>
 <p>3) Developmental consequences of early-life stress, especially in terms of the body-brain axis, and the protective mechanisms that let us overcome these adversities.</p>
