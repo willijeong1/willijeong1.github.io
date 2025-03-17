@@ -4,9 +4,9 @@
     "label": "",
     "image": "",
     "email": "willijeong1@gmail.com",
-    "phone": "",
+    "phone": "(+1)-949-414-9449",
     "url": "https://willijeong1.github.io/",
-    "summary": "As a medical student in Seoul National University with a concurrent double major in Psychology, I aspire to become a warm-hearted neuropsychiatrist as well as develop a research career in biological psychiatry. My long-term research goal is to bridge the gap between psychiatric nosology and pathophysiology by intertwining pioneering discoveries in neuroimmunology with a profound understanding of the human mind achievable through clinical expertise.",
+    "summary": "With an academic background of psychology, medicine, and neuroscience across S. Korea and the U.S., I aspire to become a warm-hearted neuropsychiatrist and biopsychiatry researcher. My long-term research goal is to further refine our conceptualization of mental illness, intertwining pioneering discoveries in psychoneuroimmunology with a profound understanding of the human mind achievable through clinical expertise.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -43,7 +43,7 @@
       "startDate": "2021-03-01",
       "endDate": "2028-02-28",
       "score": "10",
-      "courses": ["Thesis (in progress): Meaning-making through giving and caring in traumatized communities","Relevant coursework: experimental psychology, personality, abnormal psychology, counseling, development, biopsychology, brain-mind-behavior seminar, data science in human neuroimaging"]
+      "courses": ["Thesis: Empowering memories help maintain self-confidence in a stressful task","Relevant coursework: experimental psychology, personality, abnormal psychology, counseling, development, biopsychology, brain-mind-behavior seminar, data science in human neuroimaging"]
     },
     {
       "institution": "Korean Minjok Leadership Academy",
@@ -59,21 +59,21 @@
   ],
   "work": [
     {
-      "name": "Department of Psychology, Scripps College (Claremont Colleges)",
-      "position": "Research Collaborator",
+      "name": "Department of Psychology, Scripps College (PI: Heejung Park)",
+      "position": "Research Collaborator, Cultural & Developmental Psychology Lab.",
       "url": "https://www.scrippscollege.edu/offices/profile/heejung-park",
       "startDate": "2024-11-13",
       "endDate": "Present",
-      "summary": "Cultural & Developmental Psychology Lab. (PI: Heejung Park)",
-      "highlights": ["Motivating resilience against trauma in North Korean defector adolescents", "Meaning-making and resilience in traumatized communities"]
+      "summary": "",
+      "highlights": ["Positive youth development in adolescents from diverse backgrounds", "Meaning-making and resilience in traumatized communities"]
     },
     {
-      "name": "Department of Biomedical Sciences, Seoul National University",
-      "position": "Student Research Assistant",
+      "name": "Department of Biomedical Sciences, Seoul National University (PI: Seung-Jae Lee)",
+      "position": "Student Research Assistant, Lab. of Neurological Disease",
       "url": "https://biomed.snu.ac.kr/LND/",
       "startDate": "2021-12-14",
       "endDate": "Present",
-      "summary": "Lab. of Neurological Disease (PI: Seung-Jae Lee)",
+      "summary": "",
       "highlights": ["Changes in alpha-synuclein-exposed oligodendrocytes in Parkinson's disease", "Neuron-to-oligodendrocyte alpha-synuclein transmission via TLR2 in multiple system atrophy", "TLR2 & innate immunity in alpha-synucleinopathies"]
     }
   ],
@@ -110,8 +110,8 @@
       "url": ""
     },
     {
-      "name": "Motivating Resilience Against Trauma in North Korean Defector Adolescents",
-      "summary": "This is a collaborative interdisciplinary research project investigating protective factors that motivate resilience against trauma in North Korean defector adolescents. In this ongoing endeavor to shed light on one of the most marginalized, underrepresented populations around the world, we plan on incorporating a plethora of research techniques in a casual, everyday setting to gather a holistic perspective: in-depth interviews, questionnaires, participatory activities, ethnography, and even biomarker testing.",
+      "name": "Understanding the Lived Experiences of Multicultural Youth in South Korea",
+      "summary": "This is a collaborative interdisciplinary fieldwork-and-volunteering project, conducting a longitudinal investigation of the developmental trajectories and well-being of adolescents from diverse backgrounds in South Korea. These youth, including the children of immigrant families and adolescents from North Korean backgrounds, may experience difficulties growing up in the traditionally monoethnic South Korean society and culture. Volunteering in the research sites to ensure that we can provide our participants with what they truly want and need, we plan on incorporating research techniques spanning quantitative and qualitative domains to gather a holistic perspective of everyday life in these youth.",
       "highlights": ["Advisors: Heejung Park, Scripps College Psychology; Jessica Chiang, Georgetown Psychology"],
       "startDate": "2024-10-20",
       "endDate": "Present",
