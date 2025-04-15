@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Medicine & Psychology @ Seoul National University | Biopsychiatry Researcher | Talent Award of Korea #<a href=''></a>. 
+subtitle: Biopsychiatry Researcher @ Claremont & Cornell | Medical Student @ Seoul Nat'l Univ. | Talent Award of Korea #<a href=''></a>. 
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello, my name is Yeonwoo Jeong, and I also go by "William."
 
-With an academic background of psychology, medicine, and neuroscience across S. Korea and the U.S., I aspire to become a warm-hearted neuropsychiatrist and biopsychiatry researcher. Currently a medical student in Seoul National University, I am on a research year to indulge in and learn from a variety of academic experiences.
+With an academic background of psychology, medicine, and neuroscience across S. Korea and the U.S., I aspire to become a warm-hearted neuropsychiatrist and biopsychiatry researcher. As a medical student in Seoul National University, I am on my second research year to indulge in and learn from a variety of scholarly activities, working at the Claremont Colleges in the sunny City of Angels as well as Weill Cornell Medical College in the bustling Big Apple. Together with my childhood memories of the Floridian sunshine, these experiences add up to my curiosity and fondness for diverse environments and cultures shaping our unique scenes of life.
 
 My long-term research goal is to further refine our conceptualization of mental illness by better categorizing the fundamental entities that underpin these dehumanizing conditions. The better we know about mental illness, the better we can think of effective therapeutic strategies against it and, more importantly, break the painful stigmas that hinder these efforts.
 
