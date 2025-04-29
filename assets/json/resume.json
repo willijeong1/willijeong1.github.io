@@ -30,7 +30,7 @@
       "area": "",
       "studyType": "Doctor of Medicine",
       "startDate": "2021-03-02",
-      "endDate": "2028-02-28",
+      "endDate": "2029-02-28",
       "score": "10",
       "courses": ["Microdegree in Neurophysiology (Continuing Research Program)","Foundational sciences (MS1): anatomy, histology, physiology, biochemistry, neuroscience, immunology, pathology, microbiology, pharmacology, genetics, developmental biology, epidemiology", "Clinical sciences (MS2): integrated organ-based courses on major medical fields (e.g., internal medicine, neurology, psychiatry)", "Clinical clerkship (MS3–4): core & elective rotations", "Longitudinal introductory courses on history of medicine, medical ethics, public & global health, palliative care, forensic medicine, etc.", "Elective courses: neuropsychiatry research methods, clinical neuroanatomy, spatial transcriptomics, clinical genomics"]
     },
@@ -41,7 +41,7 @@
       "area": "Psychology",
       "studyType": "Bachelor of Arts",
       "startDate": "2021-03-01",
-      "endDate": "2028-02-28",
+      "endDate": "2029-02-28",
       "score": "10",
       "courses": ["Thesis: Empowering memories help maintain self-confidence in a stressful task","Relevant coursework: experimental psychology, personality, abnormal psychology, counseling, development, biopsychology, brain-mind-behavior seminar, data science in human neuroimaging"]
     },
@@ -58,6 +58,15 @@
     }
   ],
   "work": [
+    {
+      "name": "Department of Psychiatry, Weill Cornell Medical College (PI: Conor Liston)",
+      "position": "Student Research Collaborator, Systems Neuroscience & Biological Psychiatry Lab.",
+      "url": "https://gradschool.weill.cornell.edu/faculty/conor-liston",
+      "startDate": "2025-04-28",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Precision functional mapping of the salience network in major depressive disorder"]
+    },
     {
       "name": "Department of Psychology, Scripps College (PI: Heejung Park)",
       "position": "Research Collaborator, Cultural & Developmental Psychology Lab.",
