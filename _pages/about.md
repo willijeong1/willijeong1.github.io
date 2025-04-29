@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Biopsychiatry Researcher @ Claremont & Cornell | Medical Student @ Seoul National University #<a href=''></a>. 
+subtitle: Biopsychiatry Researcher at Claremont & Cornell | B.A./M.D. Student at Seoul National Univ. #<a href=''></a>. 
 
 profile:
   align: right
