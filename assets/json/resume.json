@@ -118,9 +118,9 @@
   ],
   "projects": [
     {
-      "name": "Profiling Vaccine-Related Neuropsychiatric Adverse Events in Pharmacovigilance Reports",
-      "summary": "Advisor: Sun Young Yum, M.D., Ph.D. (Brain Boutique, Inc.)",
-      "highlights": ["Employing the Vaccine Adverse Event Reporting System (VAERS), a U.S. vaccine safety program, our team compiled and analyzed a total of 213 case reports associated with a particular type of neuropsychiatric adverse event following vaccination. This research project aims to raise clinical awareness about this devastating yet often overlooked condition, also suggesting implications for etiological research."],
+      "name": "Foudroyant Neuropsychiatric Syndrome After Vaccination: Symptom Trajectories and Clinical Outcomes",
+      "summary": "Advisors: Sun Young Yum, M.D., Ph.D. (Brain Boutique, Inc.), Michael Hwang, M.D. (New York Medical College)",
+      "highlights": ["This project aimed to investigate the possibility of pediatric acute-onset neuropsychiatric syndrome (PANS) following vaccination. PANS is characterized by fulminant obsessive-compulsive (OC) phenomena and/or feeding restriction associated with various immune triggers. With autoimmunity against basal ganglia being explored in PANS as well as OC phenomena in general, we asked if PANS could be provoked by vaccination, a controlled immune stimulus in the real-world setting. Our team compiled and analyzed 213 vaccine adverse event reports for signal detection on vaccine-associated PANS, identifying an important clinical awareness gap and implications for etiological research."],
       "startDate": "2025-01-08",
       "endDate": "2025-07-30",
       "url": ""
@@ -203,12 +203,12 @@
     {
       "organization": "The Claremont Colleges",
       "location": "Seoul, South Korea",
-      "position": "Mentor",
+      "position": "Advisory Collaborator",
       "url": "",
       "startDate": "2025-05-21",
       "endDate": "2025-06-17",
       "summary": "English Learner Program for Youth from Diverse Backgrounds",
-      "highlights": ["Designing and conducting a 4-week in-person English Learner Program for youth from diverse backgrounds in South Korea.", "Collaborating with students from the Claremont Colleges to brainstorm hands-on activities best suited for an exciting language immersion experience.", "Relevant research project: Understanding the Lived Experiences of Multicultural Youth in South Korea"]
+      "highlights": ["Contributed to designing and conducting a 4-week in-person English Learner Program for youth from diverse backgrounds in South Korea, with an emphasis on conversational English skills.", "Collaborated with college students from the U.S. to brainstorm hands-on activities best suited for an exciting language immersion experience.", "Relevant research project: Understanding the Lived Experiences of Multicultural Youth in South Korea"]
     },
     {
       "organization": "Study With Me",

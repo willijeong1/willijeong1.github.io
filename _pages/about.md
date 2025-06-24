@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Yeonwoo Jeong, and I also go by "William."
+Hello there! My name is Yeonwoo Jeong, and I also go by "William."
 
 With an academic background of psychology, medicine, and neuroscience across S. Korea and the U.S., I aspire to become a warm-hearted neuropsychiatrist and biopsychiatry researcher. Currently on my second research year, I am working on exciting research projects at the Claremont Colleges in LA and Weill Cornell Medical College in NYC.
 
