@@ -88,6 +88,13 @@
   ],
   "publications": [
     {
+      "name": "Post-vaccination pediatric acute-onset neuropsychiatric syndrome: Identifying vaccination as a previously unrecognized immune trigger",
+      "publisher": "",
+      "releaseDate": "2025-10-22",
+      "url": "",
+      "summary": "Oral session presented at 72nd Annual Meeting of the American Academy of Child and Adolescent Psychiatry, Chicago, IL."
+    },
+    {
       "name": "Toll-like receptor 2 mediates oligodendrogliopathy in alpha-synucleinopathies",
       "publisher": "",
       "releaseDate": "2025-04-13",
@@ -119,10 +126,10 @@
   "projects": [
     {
       "name": "Foudroyant Neuropsychiatric Syndrome Following Vaccination: Symptom Profiles and Clinical Trajectories",
-      "summary": "Advisors: Sun Young Yum, M.D., Ph.D. (Brain Boutique, Inc.), Michael Hwang, M.D. (New York Medical College)",
+      "summary": "Advisor: Sun Young Yum, M.D., Ph.D. (Brain Boutique, Inc.)",
       "highlights": ["This project aimed to investigate the possibility of pediatric acute-onset neuropsychiatric syndrome (PANS) following vaccination. PANS is characterized by fulminant obsessive-compulsive (OC) phenomena and/or feeding restriction associated with various immune triggers. With autoimmunity against basal ganglia being explored in PANS as well as OC phenomena in general, we asked if PANS could be provoked by vaccination, a controlled immune stimulus in the real-world setting. Our team compiled and analyzed 213 vaccine adverse event reports for signal detection on vaccine-associated PANS, identifying an important clinical awareness gap and implications for etiological research."],
       "startDate": "2025-01-08",
-      "endDate": "2025-07-30",
+      "endDate": "Present",
       "url": ""
     },
     {
