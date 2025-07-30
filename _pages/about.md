@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Located in Seoul, S. Korea, Irvine, CA, & New York, NY</p>
+    <p>Located in Seoul, S. Korea, La Cañada Flintridge, CA, & New York, NY</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
