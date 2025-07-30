@@ -88,11 +88,25 @@
   ],
   "publications": [
     {
-      "name": "Post-vaccination pediatric acute-onset neuropsychiatric syndrome: Identifying vaccination as a previously unrecognized immune trigger",
-      "publisher": "",
+      "name": "COVID-19 vaccination-associated tics: Female predominance and rapid onset challenge current diagnostic frameworks",
+      "publisher": "Journal of the American Academy of Child and Adolescent Psychiatry",
       "releaseDate": "2025-10-22",
       "url": "",
-      "summary": "Oral session presented at 72nd Annual Meeting of the American Academy of Child and Adolescent Psychiatry, Chicago, IL."
+      "summary": "Poster session presented at 72nd Annual Meeting of the American Academy of Child and Adolescent Psychiatry, Chicago, IL."
+    },
+    {
+      "name": "Post-vaccination pediatric acute-onset neuropsychiatric syndrome: Identifying vaccination as a previously unrecognized immune trigger",
+      "publisher": "Journal of the American Academy of Child and Adolescent Psychiatry",
+      "releaseDate": "2025-10-22",
+      "url": "",
+      "summary": "Poster session presented at 72nd Annual Meeting of the American Academy of Child and Adolescent Psychiatry, Chicago, IL."
+    },
+    {
+      "name": "Food and Drug Administration Adverse Event Reporting System (FAERS) analysis with de-duplication on immune checkpoint inhibitor-associated immune-related adverse events",
+      "publisher": "",
+      "releaseDate": "2025-10-10",
+      "url": "",
+      "summary": "Poster session presented at 14th Annual American Society of Clinical Oncology Quality Care Symposium, Chicago, IL."
     },
     {
       "name": "Toll-like receptor 2 mediates oligodendrogliopathy in alpha-synucleinopathies",
@@ -125,19 +139,19 @@
   ],
   "projects": [
     {
-      "name": "Foudroyant Neuropsychiatric Syndrome Following Vaccination: Symptom Profiles and Clinical Trajectories",
-      "summary": "Advisor: Sun Young Yum, M.D., Ph.D. (Brain Boutique, Inc.)",
-      "highlights": ["This project aimed to investigate the possibility of pediatric acute-onset neuropsychiatric syndrome (PANS) following vaccination. PANS is characterized by fulminant obsessive-compulsive (OC) phenomena and/or feeding restriction associated with various immune triggers. With autoimmunity against basal ganglia being explored in PANS as well as OC phenomena in general, we asked if PANS could be provoked by vaccination, a controlled immune stimulus in the real-world setting. Our team compiled and analyzed 213 vaccine adverse event reports for signal detection on vaccine-associated PANS, identifying an important clinical awareness gap and implications for etiological research."],
-      "startDate": "2025-01-08",
-      "endDate": "Present",
-      "url": ""
-    },
-    {
       "name": "Understanding the Lived Experiences of Multicultural Youth in South Korea: A Mixed Methods Project",
       "summary": "Advisors: Heejung Park, Ph.D. (Scripps College), Jessica Chiang, Ph.D. (Georgetown University)",
       "highlights": ["This is a collaborative interdisciplinary fieldwork project, conducting a longitudinal investigation of positive youth development in adolescents from diverse backgrounds in South Korea. These youth, including the children of immigrant families and adolescents from North Korean backgrounds, may experience difficulties in the traditionally monoethnic South Korean society and culture. Volunteering in the research sites to truly feel the wants and needs of our participants, we plan on incorporating mixed methods research to gather a holistic perspective of everyday life in these youth."],
       "startDate": "2024-10-20",
       "endDate": "Present",
+      "url": ""
+    },
+    {
+      "name": "Foudroyant Neuropsychiatric Syndrome Following Vaccination: Symptom Profiles and Clinical Trajectories",
+      "summary": "Advisor: Sun Young Yum, M.D., Ph.D. (Brain Boutique, Inc.)",
+      "highlights": ["This project aimed to investigate the possibility of pediatric acute-onset neuropsychiatric syndrome (PANS) following vaccination. PANS is characterized by fulminant obsessive-compulsive (OC) phenomena and/or feeding restriction associated with various immune triggers. With autoimmunity against basal ganglia being explored in PANS as well as OC phenomena in general, we asked if PANS could be provoked by vaccination, a controlled immune stimulus in the real-world setting. Our team compiled and analyzed 213 vaccine adverse event reports for signal detection on vaccine-associated PANS, identifying an important clinical awareness gap and implications for etiological research."],
+      "startDate": "2025-01-08",
+      "endDate": "2025-07-28",
       "url": ""
     }
   ],
