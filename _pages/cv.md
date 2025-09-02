@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 1
-cv_pdf: Yeonwoo Jeong Curriculum Vitae_250821.pdf
+cv_pdf: Yeonwoo Jeong Curriculum Vitae_250902.pdf
 description: 
 toc:
   sidebar: left
