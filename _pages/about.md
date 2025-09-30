@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Biopsychiatry Researcher at Claremont & Cornell | B.A./M.D. Student at Seoul National Univ. #<a href=''></a>. 
+subtitle: Biological Psychiatry | B.A./M.D. Student at Seoul National Univ. #<a href=''></a>. 
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello there! My name is Yeonwoo Jeong, and I also go by "William."
 
-With an academic background of psychology, medicine, and neuroscience across S. Korea and the U.S., I aspire to become a warm-hearted psychiatrist and biopsychiatry researcher. Currently on my second research year, I am working on exciting research projects at the Claremont Colleges in LA and Weill Cornell Medical College in NYC.
+With an academic background of psychology, medicine, and neuroscience across S. Korea and the U.S., I aspire to become a warm-hearted psychiatrist and biopsychiatry researcher. Currently on my second research year, I am learning from exciting research projects at the Claremont Colleges in LA and Weill Cornell Medical College in NYC.
 
 From the dream of becoming a musician to the memories of the Floridian sunshine, the twists and turns bringing me to the present add up to my curiosity and fondness for diverse backgrounds shaping our unique and dynamic scenes of life.
 
