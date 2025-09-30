@@ -6,7 +6,7 @@
     "email": "willijeong1@gmail.com",
     "phone": "(+1)-949-414-9449",
     "url": "https://willijeong1.github.io/",
-    "summary": "With an academic background of psychology, medicine, and neuroscience across S. Korea and the U.S., I aspire to become a warm-hearted neuropsychiatrist and biopsychiatry researcher. My long-term research goal is to further refine our conceptualization of mental illness, intertwining pioneering discoveries in psychoneuroimmunology with a profound understanding of the human mind achievable through clinical expertise.",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -55,65 +55,6 @@
       "endDate": "2021-02-20",
       "score": "10",
       "courses": ["Exemplary Student Award, Feb 2021.","Yeongjae Merit Scholarship, 2018–2020."]
-    }
-  ],
-  "work": [
-    {
-      "name": "Department of Psychiatry, Weill Cornell Medical College (PI: Conor Liston, M.D., Ph.D.)",
-      "position": "Research Collaborator, Systems Neuroscience & Biological Psychiatry Lab.",
-      "url": "https://gradschool.weill.cornell.edu/faculty/conor-liston",
-      "startDate": "2025-04-28",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": ["Precision functional mapping of the salience network in major depressive disorder"]
-    },
-    {
-      "name": "Department of Psychology, Scripps College (PI: Heejung Park, Ph.D.)",
-      "position": "Research Collaborator, Cultural & Developmental Psychology Lab.",
-      "url": "https://www.scrippscollege.edu/offices/profile/heejung-park",
-      "startDate": "2024-11-13",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": ["Positive youth development in adolescents from diverse backgrounds", "Meaning-making and resilience in traumatized communities"]
-    },
-    {
-      "name": "Department of Biomedical Sciences, Seoul National University (PI: Seung-Jae Lee, Ph.D.)",
-      "position": "Student Research Assistant, Lab. of Neurological Disease",
-      "url": "https://biomed.snu.ac.kr/LND/",
-      "startDate": "2021-12-14",
-      "endDate": "2025-02-28",
-      "summary": "",
-      "highlights": ["TLR2 as the mediator of alpha-synuclein propagation in synucleinopathies", "Oligodendrogliopathy induced by transmission of neuron-released alpha-synuclein"]
-    }
-  ],
-  "publications": [
-    {
-      "name": "Toll-like receptor 2 mediates oligodendrogliopathy in alpha-synucleinopathies",
-      "publisher": "",
-      "releaseDate": "2025-04-13",
-      "url": "",
-      "summary": "Oral session presented at 39th Convention of the Seoul National University College of Medicine Alumni Association of North America, Falls Church, VA."
-    },
-    {
-      "name": "Neuron-to-oligodendrocyte alpha-synuclein transmission in multiple system atrophy is mediated by Toll-like receptor 2",
-      "publisher": "",
-      "releaseDate": "2024-12-05",
-      "url": "",
-      "summary": "Poster session presented at 1st Seoul National University Physician-Scientist Training Program Workshop, Incheon, South Korea."
-    },
-    {
-      "name": "Psychiatric needs and trauma among North Korean defectors: A comparative analysis with post-Soviet populations",
-      "publisher": "",
-      "releaseDate": "2024-10-13",
-      "url": "",
-      "summary": "Poster session presented at 2024 Asian Pacific American Medical Student Association Research Conference, Irvine, CA."
-    },
-    {
-      "name": "Expression of neural phenotype in alpha-synuclein-exposed human oligodendrocytes",
-      "publisher": "",
-      "releaseDate": "2022-12-16",
-      "url": "",
-      "summary": "Oral session presented at 2022 Seoul National University Premedical Course Research Festival, Seoul, South Korea."
     }
   ],
   "projects": [
