@@ -91,7 +91,7 @@
       "date": "2022-12-16",
       "awarder": "Seoul National University",
       "url": "",
-      "summary": "Grand award (best presentation), awarded to 2 among 45 research participants in the premedical course, after oral presentation of selected abstracts ($1,000 scholarship). Displayed as an exemplary research output in the premedical course student orientation resources for 2023."
+      "summary": "Grand award (best presentation), awarded to 2 among 45 research participants in the premedical course, after oral presentation of selected abstracts ($1,000 scholarship). Displayed as an exemplary research output in the student orientation resources in 2023."
     },
     {
       "title": "Volunteer Social Service Award",
@@ -191,23 +191,23 @@
       "startDate": "2018-08-04",
       "endDate": "2019-12-15",
       "summary": "",
-      "highlights": ["Worked as a volunteer English-to-Korean translator (166 hrs), writing subtitles for Khan Academy educational videos on biology, chemistry, medicine, and math.", "Nominated as excellent & diligent volunteer."]
+      "highlights": ["Worked 166 hours as a volunteer English-to-Korean translator, writing subtitles for Khan Academy educational videos on biology, chemistry, medicine, and math.", "Nominated as excellent & diligent volunteer."]
     }
   ],
   "languages": [
     {
       "language": "Korean",
-      "fluency": "Native speaker",
+      "fluency": "Native proficiency",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Bilingual",
+      "fluency": "Bilingual proficiency",
       "icon": ""
     },
     {
       "language": "French",
-      "fluency": "Intermediate (CEFR A2–B1)",
+      "fluency": "Elementary proficiency",
       "icon": ""
     }
   ]
