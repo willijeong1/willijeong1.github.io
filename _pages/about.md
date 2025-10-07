@@ -9,14 +9,14 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Located in Seoul, S. Korea, Claremont, CA, & New York, NY</p>
+    <p>Located in Seoul, S. Korea, New York, NY, & Claremont, CA </p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello there! My name is Yeonwoo Jeong, and I also go by "William."
+Welcome! My name is Yeonwoo Jeong, and I also go by "William."
 
 I have always been curious about the mind, having encountered quite a few life experiences and some amazing people that shaped myself into who I am. Dreaming to become a warm-hearted psychiatrist and biopsychiatry researcher, I aim to learn more about the harmonies within us through the lenses of psychology, psychiatry, and neuroscience.
 
