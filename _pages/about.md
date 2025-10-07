@@ -18,19 +18,10 @@ social: true # includes social icons at the bottom of the page
 
 Hello there! My name is Yeonwoo Jeong, and I also go by "William."
 
-With an academic background of psychology, medicine, and neuroscience across S. Korea and the U.S., I aspire to become a warm-hearted psychiatrist and biopsychiatry researcher. Currently on my second research year, I am learning from exciting research projects at the Claremont Colleges in LA and Weill Cornell Medical College in NYC.
+I have always been curious about the mind, having encountered quite a few life experiences and some amazing people that shaped myself into who I am. Dreaming to become a warm-hearted psychiatrist and biopsychiatry researcher, I aim to learn more about the harmonies within us through the lenses of psychology, psychiatry, and neuroscience.
 
-From the dream of becoming a musician to the memories of the Floridian sunshine, the twists and turns bringing me to the present add up to my curiosity and fondness for diverse backgrounds shaping our unique and dynamic scenes of life.
+My research interests span psychoneuroimmunology and systems neuroscience, precision medicine, and resilience in human development. That said, I am always excited to learn something new, which led me to pursue two research years outside of medical school.
 
-My passion for mental health is a tribute to this vibrancy of life that "makes us who we are." Across a variety of experiences, I have continuously sought ways to fully embrace and cherish our ups and downs, along with ourselves going through them.
+In my free time, I enjoy exploring the world of music and the performing arts, having played the piano for over ten years in my childhood. While I was involved in student-led musical theatre productions a few years ago, recently I developed an interest in a cappella, transcribing and editing scores of cool songs on the web for our school club to sing. You might encounter some of my performances, among other things, in the [blog](/blog) section. Apart from that, I love scenic drives, travelling, and sharing unique cultures.
 
-To better understand the entangled underpinnings of mental illness and, a step further, what it means to be ourselves, I wish to intertwine the following aspects into a holistic perspective:
-
-<p>1) Picturing diversity in the human mind through lenses of psychoneuroimmunology and systems neuroscience.</p>
-<p>2) Exploring the clinical implications of pioneering discoveries for more possibilities against mental illness.</p>
-<p>3) Appreciating the individual trajectories and human potential in resilience and lifelong development.</p>
-You can find out more about my research journey in the [publications](/publications) and [blog](/blog) sections.
-
-Apart from academics, I have always had a big passion for music and the performing arts. Orchestral concerts and musical theatre are my favorites, and I recently started venturing into new genres such as a cappella and opera. You might encounter some of my performances, among other things, in the [blog](/blog) section.
-
-Please feel free to look around! If you have any questions or just want to connect, you can contact me through the below channels.
+If you have any questions or just want to connect, you can contact me through the below channels. Sometimes, just one hello is all it takes!
