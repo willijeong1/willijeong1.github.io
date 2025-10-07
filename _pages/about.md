@@ -22,6 +22,6 @@ I have always been curious about the mind, having encountered quite a few life e
 
 My research interests span psychoneuroimmunology and systems neuroscience, precision medicine, and resilience in human development. That said, I am always excited to learn something new, which led me to pursue two research years outside of medical school.
 
-In my free time, I enjoy exploring the world of music and the performing arts, having played the piano for over ten years in my childhood. While I was involved in student-led musical theatre productions a few years ago, recently I developed an interest in a cappella, transcribing and editing scores of cool songs on the web for our school club to sing. You might encounter some of my performances, among other things, in the [blog](/blog) section. Apart from that, I love scenic drives, travelling, and sharing unique cultures.
+In my free time, I enjoy exploring the world of music and the performing arts, having played the piano for over ten years in my childhood. While I was involved in student-led musical theatre productions a couple years ago, recently I developed an interest in a cappella, transcribing and editing scores for our school club to sing. You might encounter some of my performances, among other things, in the [blog](/blog) section. Apart from that, I love scenic drives, travelling, and sharing unique cultures.
 
 If you have any questions or just want to connect, you can contact me through the below channels. Sometimes, just one hello is all it takes!
