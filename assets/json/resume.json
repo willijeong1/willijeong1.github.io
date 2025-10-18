@@ -25,7 +25,7 @@
   "education": [
     {
       "institution": "Seoul National University",
-      "location": "Seoul, South Korea",
+      "location": "Seoul, S. Korea",
       "url": "https://medicine.snu.ac.kr/en/",
       "area": "",
       "studyType": "Doctor of Medicine",
@@ -36,7 +36,7 @@
     },
     {
       "institution": "Seoul National University",
-      "location": "Seoul, South Korea",
+      "location": "Seoul, S. Korea",
       "url": "https://psych.snu.ac.kr/e_main.php",
       "area": "",
       "studyType": "Bachelor of Arts in Psychology",
@@ -64,7 +64,7 @@
       "url": "",
       "startDate": "2024-11-13",
       "endDate": "",
-      "summary": "PI: Heejung Park, Ph.D. (Department of Psychology, Scripps College, Claremont, CA",
+      "summary": "PI: Heejung Park, Ph.D. (Department of Psychology, Scripps College, Claremont, CA)",
       "highlights": ""
     },
     {
@@ -73,7 +73,7 @@
       "url": "",
       "startDate": "2021-12-14",
       "endDate": "2025-02-28",
-      "summary": "PI: Seung-Jae Lee, Ph.D. (Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul, S. Korea",
+      "summary": "PI: Seung-Jae Lee, Ph.D. (Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul, S. Korea)",
       "highlights": ""
     }
   ],
