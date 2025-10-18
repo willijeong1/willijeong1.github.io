@@ -30,7 +30,7 @@
       "area": "",
       "studyType": "Doctor of Medicine",
       "startDate": "2021-03-02",
-      "endDate": "2029-02-28",
+      "endDate": "",
       "score": "10",
       "courses": ["Hakgye Merit Scholarship (Full Tuition), 2024–Present","Continuing Research Program in Neuroscience, 2023–Present"]
     },
@@ -41,7 +41,7 @@
       "area": "",
       "studyType": "Bachelor of Arts in Psychology",
       "startDate": "2021-03-01",
-      "endDate": "2029-02-28",
+      "endDate": "",
       "score": "10",
       "courses": ["Thesis project: Empowering memories help maintain self-confidence in a stressful cognitive task","Relevant coursework: experimental psychology, psychopathology, personality, counseling, development, biopsychology, brain-mind-behavior seminar, data science in human neuroimaging"]
     },
@@ -63,7 +63,7 @@
       "position": "Student Research Assistant",
       "url": "",
       "startDate": "2024-11-13",
-      "endDate": "Present",
+      "endDate": "",
       "summary": "PI: Heejung Park, Ph.D. (Department of Psychology, Scripps College, Claremont, CA)",
       "highlights": ""
     },
