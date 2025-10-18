@@ -57,6 +57,26 @@
       "courses": ["Exemplary Student Award, Feb 2021","Yeongjae Merit Scholarship, Fall 2018–Fall 2020"]
     }
   ],
+    "research experiences": [
+    {
+      "name": "Park Lab. (Cultural and Developmental Psychology Lab.)",
+      "position": "Student Research Assistant",
+      "url": "",
+      "startDate": "2024-11-13",
+      "endDate": "",
+      "summary": "PI: Heejung Park, Ph.D. (Department of Psychology, Scripps College, Claremont, CA",
+      "highlights": ""
+    },
+    {
+      "name": "Lab. of Neurological Disease",
+      "position": "Student Research Assistant",
+      "url": "",
+      "startDate": "2021-12-14",
+      "endDate": "2025-02-28",
+      "summary": "PI: Seung-Jae Lee, Ph.D. (Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul, S. Korea",
+      "highlights": ""
+    }
+  ],
   "awards": [
     {
       "title": "Invitation to the 39th SNUCMAA of North America Convention",
