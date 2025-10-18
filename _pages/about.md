@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Biological Psychiatry | B.A./M.D. Student at Seoul National Univ. #<a href=''></a>. 
+subtitle: B.A./M.D. Student at Seoul National Univ. | Biological Psychiatry #<a href=''></a>. 
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Located in Seoul, S. Korea, New York, NY, & Claremont, CA </p>
+    <p>Seoul, S. Korea </p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
