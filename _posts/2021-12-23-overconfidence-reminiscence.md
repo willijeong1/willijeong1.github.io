@@ -8,7 +8,7 @@ categories: psychology
 thumbnail: assets/img/20211223_00.jpg
 ---
 
-*** This was an individual term project in the “Introduction to Experimental Psychology & Lab.” course in Fall 2021, led by Dr. Jooyong Park (Department of Psychology, Seoul National University). This course is where students practice critiques and academic writing on a number of sample research topics before embarking on their own research projects.
+*** This was an individual term project completed for an experimental psychology course (Fall 2021), developed under the guidance of a faculty member in the Dept. of Psychology at Seoul National Univ. The original work has since been translated and lightly edited to reflect on the ideas I was exploring at the time as a student.
 
 <div class="row justify-content-sm-center mt-3">
     <div class="col-sm-5 mt-3 mt-md-0">
@@ -19,9 +19,7 @@ thumbnail: assets/img/20211223_00.jpg
     Overconfidence in word recall from reminiscence of giving advice.
 </div>
 
-*** Reflecting on my experiences in mentoring or tutoring middle and high school students, I noticed that the sole recalling of those sessions where I felt I was able to provide my mentees some kind of advice (even the less helpful ones) promoted self-esteem. I decided to find out if others had similar reactions, and it turned out that they did!
-
-*** The immediate conclusion of this work was rather about overconfidence resulting from an experience of authority. However, in retrospect, I think this could be a good example showing that we can remain resilient despite debilitating stress by reminiscing about “good times” when we were appreciated as a “good (knowledgeable) person.”
+*** Looking back to my experiences of mentoring or tutoring middle and high school students, I noticed that the sole recalling of those sessions where I felt I was able to provide my mentees some kind of advice (including the less helpful ones) promoted self-esteem. I decided to find out if others had similar reactions, even to the extent of overconfidence.
 
 -----
 

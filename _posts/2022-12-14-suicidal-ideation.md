@@ -3,12 +3,12 @@ layout: post
 title: Reaching out firsthand： Precise prevention of adolescent suicide in South Korea
 date: 2022-12-14 12:00:00
 description: A proposal to lower South Korean adolescent suicide rates by CBCL-brain/PRS interaction-based risk prediction and precise intervention
-tags: suicide machine-learning Korea data-science-in-human-neuroimaging
+tags: suicide machine-learning Korea human-neuroimaging
 categories: psychology psychiatry
 thumbnail: assets/img/20221214_00.png
 ---
 
-*** This project was for a term paper in the "Data Science in Human Neuroimaging" course in Fall 2022, led by Dr. Jiook Cha (Department of Psychology, Seoul National University). I worked with two other students majoring in Psychology to devise and analyze the prediction model.
+*** This project was for a term paper in a human neuroimaging course (Fall 2022), developed under the guidance of a faculty member in the Dept. of Psychology at Seoul National Univ. I worked with two other students majoring in Psychology to devise and analyze the prediction model. The original work has since been translated and lightly edited to reflect on the ideas I was exploring at the time as a student.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,9 +23,9 @@ thumbnail: assets/img/20221214_00.png
     Reaching out firsthand.
 </div>
 
-*** An intriguing finding from this project was that behavioral assessment data showed a striking adeptness, compared to gene and brain imaging data, in generally predicting suicidal ideation. In retrospect, I believe this is an example describing the robust clinical efficacy of the current symptom-based diagnosis and treatment framework for psychiatric disorders. However, at the same time, it implies that the complex disparity between biological correlates and behavioral manifestations of mental illness, a major unsolved question in psychiatry research, would be nearly impossible to address without refining (or possibly revising) our current conceptualization of psychiatric disorders.
+*** An intriguing finding from this project was that behavioral assessment data showed a striking adeptness, compared to gene and brain imaging data, in generally predicting suicidal ideation. This attests to the clinical efficacy of the empirical framework for psychopathology represented in the syndrome scales. At the same time, it implies that the disparity between biological correlates and behavioral manifestations of mental illness, a major unsolved question in psychiatry research, would be nearly impossible to address without refining our current conceptualization of psychiatric disorders.
 
-*** Revisiting this originally Korean post in 2024 to translate it for potential international visitors, I again feel heartbroken looking at the still rising adolescent suicide rates in my country. Even the mere thinking of the unfathomable struggles these young people would have went through before deciding to voluntarily end their own life makes me shudder. The most frightening and frustrating part about this is that I, currently living in a society that puts excessive burden on the people but remains to deem mental illness as strictly taboo, can too understand in part why these thousands of already lost souls might have thought of suicide as the last and only option left. Life should not be this way for young South Koreans, or any other person in Korea, or the world for that matter. We need to do something, anything. NOW.
+*** Revisiting this post in 2024, my heart continues to ache looking at the dire adolescent suicide rates in South Korea. The most haunting part about this is that I can too understand in part why these young souls voluntarily ended their own lives, as the final option in a society of excessive relational burden and taboo on mental health problems. Life should not be this way for anyone. We need to do something, anything.
 
 -----
 
