@@ -195,19 +195,6 @@ Since the CBCL questionnaire obtained from the ABCD Study® requests caregivers'
 
 To avoid the potential problems associated with low sensitivity, our next objective was to seek improvement in our prediction model by exploratively accounting for the interactions between CBCL scores and other variables.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20221214_15_v2.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-</div>
-<div class="caption">
-     Prediction results on testing data (525 participants) based on demographic and CBCL variables only. The rows indicate presence or absence of suicidal ideation (SI); the columns indicate prediction results. This model's sensitivity is approximately 80%, meaning that among participants with suicidal ideation, 1 out of 5 (in red) end up in false negatives (misunderstood as "safe").
-</div>
-
 -----
 
 How, and with what data, could we find "silent" teens and young adults thinking about suicide? The poor efficacy of the CBCL scores in detecting suicidal ideation in these individuals stems from the fact that the "silent" high-risk group is not well distinguished from healthy adolescents in terms of behavior. We hypothesized that for these high-risk individuals, an interaction term for relationships between biological signs (represented by PRS or brain imaging data) and behavioral traits (represented by CBCL scores) would assist in further, more accurate classifcation. For instance, certain behavioral characteristics common between "silent" suicide thinkers and the control group might coincide with a particular biological state A in the former and another biological state B in the latter. We attempted to account for this interaction by exploratively appending to our model several product terms between the existing variables.
@@ -304,3 +291,7 @@ Even at this hour, there are thousands of beautiful but fragile young South Kore
 <div class="caption">
     Making a difference.
 </div>
+
+---
+
+*** Disclaimer: This post uses data from the Adolescent Brain Cognitive Development (ABCD) Study®. ABCD Consortium investigators designed the study and collected the data but did not participate in this analysis. The views expressed here do not necessarily reflect those of the NIH or ABCD Consortium investigators.
